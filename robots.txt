@@ -1,0 +1,6 @@
+User-Agent:*
+Disallow:/b/
+Disallow:/cc/
+Disallow:/docs/
+Disallow:/forms/
+Disallow:/mysupport/
