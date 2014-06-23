@@ -1,0 +1,9 @@
+# Site settings
+title: ConnectBass
+
+# Jekyll settings
+markdown: redcarpet
+redcarpet:
+  extensions: ['tables', 'autolink', 'no_intra_emphasis']
+exclude: ['vendor', 'Gemfile', 'Gemfile.lock']
+
