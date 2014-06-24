@@ -7,12 +7,21 @@ title: know, understand and connect the customer
   <h2>ConnectBass（コネクトベース）は、</h2>
   <p class="lead">お客様からの問い合わせをGoogle Apps と連携して一元管理できる<br />
   コンタクトマネジメントツールです。</p>
-  <p>期間限定、有料プランも無料で利用できます。今すぐ試してみる！</p>
 
-		<div ng-controller="sinCtrl">
-			<div ng-show="errorMsg">{{ errorMsg }}</div>
-			<google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-		</div>
+  <div class="media">
+    <span class="pull-left">
+      <img class="media-object" src="/assets/img/devices_320.png" width="320">
+    </span>
+    <div class="media-body">
+      <p>期間限定、有料プランも無料で利用できます。<br />今すぐ試してみる！</p>
+
+      <div ng-controller="sinCtrl">
+        <div ng-show="errorMsg">{{ errorMsg }}</div>
+        <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+      </div>
+    </div>
+</div>
+
 
 </div>
 
