@@ -108,7 +108,7 @@ title: know, understand and connect the customer
         <div ng-show="errorMsg">{{ errorMsg }}</div>
         <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
       </div>
-[プラン・料金の詳細](price.html)
+[プラン・料金の詳細](price.md)
 
 ##ConnectBass活用事例
 
