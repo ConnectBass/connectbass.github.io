@@ -99,11 +99,15 @@ title: know, understand and connect the customer
   </div>
 </div>
 
-##ConnectBassのサービスプラン
+##ConnectBassのプラン・料金
 
 ###期間限定！今なら全サービス無料でご利用できます。
 
 
+      <div ng-controller="sinCtrl">
+        <div ng-show="errorMsg">{{ errorMsg }}</div>
+        <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+      </div>
 
 
 ##ConnectBass活用例
