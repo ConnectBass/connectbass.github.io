@@ -103,14 +103,14 @@ title: know, understand and connect the customer
 
 ###期間限定！今なら全サービス無料でご利用できます。
 
-
+####今すぐ、試してみる
       <div ng-controller="sinCtrl">
         <div ng-show="errorMsg">{{ errorMsg }}</div>
         <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
       </div>
+[プラン・料金の詳細](price.html)
 
-
-##ConnectBass活用例
+##ConnectBass活用事例
 
 ###ConnectBassでデキルこと。カイケツできること。
 
