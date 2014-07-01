@@ -1,3 +1,126 @@
+---
+layout: top
+title: プラン・料金の詳細
+---
+
+<div class="row show-grid">
+  <div class="col-sm-2">プロプラン</div>
+  <div class="col-sm-1">5ユーザー￥15,000/月（税抜）</div>
+  <div class="col-sm-2">連絡先管理
+<ul>
+<li>50,000件までの連絡先登録
+<li>連絡先の追加・編集・削除
+<li>GoogleDriveとのインポート・エクスポート
+</ul>
+
+</div>
+  <div class="col-sm-2">Webフォーム
+<ul>
+<li>5つのWebフォーム
+<li>SSL暗号通信
+<li>ダウンロードリンク
+<li>自動返信メール送信
+<li>添付ファイル
+<li>着信通知
+</ul>
+
+  </div>
+  <div class="col-sm-2">カスタマーサポート
+<ul>
+<li>表示、返信
+<li>10の返信テンプレート
+<li>添付ファイル
+<li>300人までのカスタマーポータル
+<li>自社ロゴ追加
+<li>アクセス履歴の表示
+<li>Google Analytics連携
+</ul>
+  
+  </div>
+  <div class="col-sm-1">マーケティングメール配信*</div>
+  <div class="col-sm-1">モバイル対応</div>
+  <div class="col-sm-1">TEL・優先メールサポート</div>
+</div>
+
+<div class="row show-grid">
+  <div class="col-sm-2">プロプラン</div>
+  <div class="col-sm-1">5ユーザー￥15,000/月（税抜）</div>
+  <div class="col-sm-2">連絡先管理
+<ul>
+<li>50,000件までの連絡先登録
+<li>連絡先の追加・編集・削除
+<li>GoogleDriveとのインポート・エクスポート
+</ul>
+
+</div>
+  <div class="col-sm-2">Webフォーム
+<ul>
+<li>5つのWebフォーム
+<li>SSL暗号通信
+<li>ダウンロードリンク
+<li>自動返信メール送信
+<li>添付ファイル
+<li>着信通知
+</ul>
+
+  </div>
+  <div class="col-sm-2">カスタマーサポート
+<ul>
+<li>表示、返信
+<li>10の返信テンプレート
+<li>添付ファイル
+<li>300人までのカスタマーポータル
+<li>自社ロゴ追加
+<li>アクセス履歴の表示
+<li>Google Analytics連携
+</ul>
+  
+  </div>
+  <div class="col-sm-1">マーケティングメール配信*</div>
+  <div class="col-sm-1">モバイル対応</div>
+  <div class="col-sm-1">TEL・優先メールサポート</div>
+</div>
+
+<div class="row show-grid">
+  <div class="col-sm-2">プロプラン</div>
+  <div class="col-sm-1">5ユーザー￥15,000/月（税抜）</div>
+  <div class="col-sm-2">連絡先管理
+<ul>
+<li>50,000件までの連絡先登録
+<li>連絡先の追加・編集・削除
+<li>GoogleDriveとのインポート・エクスポート
+</ul>
+
+</div>
+  <div class="col-sm-2">Webフォーム
+<ul>
+<li>5つのWebフォーム
+<li>SSL暗号通信
+<li>ダウンロードリンク
+<li>自動返信メール送信
+<li>添付ファイル
+<li>着信通知
+</ul>
+
+  </div>
+  <div class="col-sm-2">カスタマーサポート
+<ul>
+<li>表示、返信
+<li>10の返信テンプレート
+<li>添付ファイル
+<li>300人までのカスタマーポータル
+<li>自社ロゴ追加
+<li>アクセス履歴の表示
+<li>Google Analytics連携
+</ul>
+  
+  </div>
+  <div class="col-sm-1">マーケティングメール配信*</div>
+  <div class="col-sm-1">モバイル対応</div>
+  <div class="col-sm-1">TEL・優先メールサポート</div>
+</div>
+
+
 フリープラン|
 :--------|
 **無料**|
