@@ -3,121 +3,137 @@ layout: top
 title: プラン・料金の詳細
 ---
 
-<div class="row show-grid">
-  <div class="col-sm-2">プロプラン</div>
-  <div class="col-sm-1">5ユーザー￥15,000/月（税抜）</div>
-  <div class="col-sm-2">連絡先管理
-<ul>
-<li>50,000件までの連絡先登録
-<li>連絡先の追加・編集・削除
-<li>GoogleDriveとのインポート・エクスポート
-</ul>
+<div class="row">
+  <div class="col-sm-3">
 
-</div>
-  <div class="col-sm-2">Webフォーム
-<ul>
-<li>5つのWebフォーム
-<li>SSL暗号通信
-<li>ダウンロードリンク
-<li>自動返信メール送信
-<li>添付ファイル
-<li>着信通知
-</ul>
-
-  </div>
-  <div class="col-sm-2">カスタマーサポート
-<ul>
-<li>表示、返信
-<li>10の返信テンプレート
-<li>添付ファイル
-<li>300人までのカスタマーポータル
-<li>自社ロゴ追加
-<li>アクセス履歴の表示
-<li>Google Analytics連携
-</ul>
-  
-  </div>
-  <div class="col-sm-1">マーケティングメール配信*</div>
-  <div class="col-sm-1">モバイル対応</div>
-  <div class="col-sm-1">TEL・優先メールサポート</div>
-</div>
-
-<div class="row show-grid">
-  <div class="col-sm-2">プロプラン</div>
-  <div class="col-sm-1">5ユーザー￥15,000/月（税抜）</div>
-  <div class="col-sm-2">連絡先管理
-<ul>
-<li>50,000件までの連絡先登録
-<li>連絡先の追加・編集・削除
-<li>GoogleDriveとのインポート・エクスポート
-</ul>
-
-</div>
-  <div class="col-sm-2">Webフォーム
-<ul>
-<li>5つのWebフォーム
-<li>SSL暗号通信
-<li>ダウンロードリンク
-<li>自動返信メール送信
-<li>添付ファイル
-<li>着信通知
-</ul>
+<table><thead>
+<tr>
+<th align="left">プロプラン</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="left"><strong>5ユーザー￥15,000/月（税抜）</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>連絡先管理</strong><br>・50,000件までの連絡先登録<br>連絡先の追加・編集・削除<br>・GoogleDriveとのインポート・エクスポート</td>
+</tr>
+<tr>
+<td align="left"><strong>Webフォーム</strong><br>・5つのWebフォーム<br>・SSL暗号通信<br>・ダウンロードリンク<br>・自動返信メール送信<br>・添付ファイル<br>・着信通知</td>
+</tr>
+<tr>
+<td align="left"><strong>カスタマーサポート</strong><br>・表示、返信<br>・10の返信テンプレート<br>・添付ファイル<br>・300人までのカスタマーポータル<br>・自社ロゴ追加<br>・アクセス履歴の表示<br>・Google Analytics連携</td>
+</tr>
+<tr>
+<td align="left"><strong>マーケティングメール配信</strong>*</td>
+</tr>
+<tr>
+<td align="left"><strong>モバイル対応</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>TEL・優先メールサポート</strong></td>
+</tr>
+</tbody></table>
 
   </div>
-  <div class="col-sm-2">カスタマーサポート
-<ul>
-<li>表示、返信
-<li>10の返信テンプレート
-<li>添付ファイル
-<li>300人までのカスタマーポータル
-<li>自社ロゴ追加
-<li>アクセス履歴の表示
-<li>Google Analytics連携
-</ul>
-  
-  </div>
-  <div class="col-sm-1">マーケティングメール配信*</div>
-  <div class="col-sm-1">モバイル対応</div>
-  <div class="col-sm-1">TEL・優先メールサポート</div>
-</div>
 
-<div class="row show-grid">
-  <div class="col-sm-2">プロプラン</div>
-  <div class="col-sm-1">5ユーザー￥15,000/月（税抜）</div>
-  <div class="col-sm-2">連絡先管理
-<ul>
-<li>50,000件までの連絡先登録
-<li>連絡先の追加・編集・削除
-<li>GoogleDriveとのインポート・エクスポート
-</ul>
+  <div class="col-sm-3">
 
-</div>
-  <div class="col-sm-2">Webフォーム
-<ul>
-<li>5つのWebフォーム
-<li>SSL暗号通信
-<li>ダウンロードリンク
-<li>自動返信メール送信
-<li>添付ファイル
-<li>着信通知
-</ul>
+<table><thead>
+<tr>
+<th align="left">プロプラン</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="left"><strong>5ユーザー￥15,000/月（税抜）</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>連絡先管理</strong><br>・50,000件までの連絡先登録<br>連絡先の追加・編集・削除<br>・GoogleDriveとのインポート・エクスポート</td>
+</tr>
+<tr>
+<td align="left"><strong>Webフォーム</strong><br>・5つのWebフォーム<br>・SSL暗号通信<br>・ダウンロードリンク<br>・自動返信メール送信<br>・添付ファイル<br>・着信通知</td>
+</tr>
+<tr>
+<td align="left"><strong>カスタマーサポート</strong><br>・表示、返信<br>・10の返信テンプレート<br>・添付ファイル<br>・300人までのカスタマーポータル<br>・自社ロゴ追加<br>・アクセス履歴の表示<br>・Google Analytics連携</td>
+</tr>
+<tr>
+<td align="left"><strong>マーケティングメール配信</strong>*</td>
+</tr>
+<tr>
+<td align="left"><strong>モバイル対応</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>TEL・優先メールサポート</strong></td>
+</tr>
+</tbody></table>
 
   </div>
-  <div class="col-sm-2">カスタマーサポート
-<ul>
-<li>表示、返信
-<li>10の返信テンプレート
-<li>添付ファイル
-<li>300人までのカスタマーポータル
-<li>自社ロゴ追加
-<li>アクセス履歴の表示
-<li>Google Analytics連携
-</ul>
-  
+
+  <div class="col-sm-3">
+
+<table><thead>
+<tr>
+<th align="left">プロプラン</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="left"><strong>5ユーザー￥15,000/月（税抜）</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>連絡先管理</strong><br>・50,000件までの連絡先登録<br>連絡先の追加・編集・削除<br>・GoogleDriveとのインポート・エクスポート</td>
+</tr>
+<tr>
+<td align="left"><strong>Webフォーム</strong><br>・5つのWebフォーム<br>・SSL暗号通信<br>・ダウンロードリンク<br>・自動返信メール送信<br>・添付ファイル<br>・着信通知</td>
+</tr>
+<tr>
+<td align="left"><strong>カスタマーサポート</strong><br>・表示、返信<br>・10の返信テンプレート<br>・添付ファイル<br>・300人までのカスタマーポータル<br>・自社ロゴ追加<br>・アクセス履歴の表示<br>・Google Analytics連携</td>
+</tr>
+<tr>
+<td align="left"><strong>マーケティングメール配信</strong>*</td>
+</tr>
+<tr>
+<td align="left"><strong>モバイル対応</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>TEL・優先メールサポート</strong></td>
+</tr>
+</tbody></table>
+
   </div>
-  <div class="col-sm-1">マーケティングメール配信*</div>
-  <div class="col-sm-1">モバイル対応</div>
-  <div class="col-sm-1">TEL・優先メールサポート</div>
+
+  <div class="col-sm-3">
+
+<table><thead>
+<tr>
+<th align="left">プロプラン</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="left"><strong>5ユーザー￥15,000/月（税抜）</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>連絡先管理</strong><br>・50,000件までの連絡先登録<br>連絡先の追加・編集・削除<br>・GoogleDriveとのインポート・エクスポート</td>
+</tr>
+<tr>
+<td align="left"><strong>Webフォーム</strong><br>・5つのWebフォーム<br>・SSL暗号通信<br>・ダウンロードリンク<br>・自動返信メール送信<br>・添付ファイル<br>・着信通知</td>
+</tr>
+<tr>
+<td align="left"><strong>カスタマーサポート</strong><br>・表示、返信<br>・10の返信テンプレート<br>・添付ファイル<br>・300人までのカスタマーポータル<br>・自社ロゴ追加<br>・アクセス履歴の表示<br>・Google Analytics連携</td>
+</tr>
+<tr>
+<td align="left"><strong>マーケティングメール配信</strong>*</td>
+</tr>
+<tr>
+<td align="left"><strong>モバイル対応</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>TEL・優先メールサポート</strong></td>
+</tr>
+</tbody></table>
+
+  </div>
+
+
+
 </div>
 
 
