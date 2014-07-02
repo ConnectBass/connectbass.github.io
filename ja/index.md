@@ -4,7 +4,7 @@ title: know, understand and connect the customer
 ---
 
 <div class="jumbotron">
-  <h2>ConnectBass（コネクトベース）は、</h2>
+  <h2>ConnectBass（コネクトバス）は、</h2>
   <p class="lead">お客様からの問い合わせをGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
 
   <div class="row">
