@@ -214,7 +214,7 @@ title: プラン・料金の詳細
 <td align="left"><strong>Webフォーム</strong>
 
 <ul>
-<li>5つのWebフォーム</li>
+<li>15のWebフォーム</li>
 <li>SSL暗号通信</li>
 <li>ダウンロードリンク</li>
 <li>自動返信メール送信</li>
