@@ -1,6 +1,6 @@
 ---
 layout: top
-title: Connect Bass : know, understand and connect the customer
+title: ConnectBass know, understand and connect the customer
 ---
 
 <div class="jumbotron">
