@@ -167,16 +167,19 @@ title: プラン・料金の詳細
 <li>100人までのカスタマーポータル</li>
 <li>自社ロゴ追加</li>
 <li>アクセス履歴の表示</li>
-<li>Google Analytics連携</li>
 </ul>
 
 </td>
 </tr>
+
 <!--
 <tr>
 <td align="left"></td>
 </tr>
 -->
+<tr>
+<td align="left"><strong>Google Analytics連携</td>
+</tr>
 <tr>
 <td align="left"><strong>モバイル対応</strong></td>
 </tr>
@@ -231,10 +234,12 @@ title: プラン・料金の詳細
 <li>300人までのカスタマーポータル</li>
 <li>自社ロゴ追加</li>
 <li>アクセス履歴の表示</li>
-<li>Google Analytics連携</li>
 </ul>
 
 </td>
+</tr>
+<tr>
+<td align="left"><strong>Google Analytics連携</td>
 </tr>
 <tr>
 <td align="left"><strong>マーケティングメール配信</strong>*</td>
