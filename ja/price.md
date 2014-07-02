@@ -158,7 +158,7 @@ title: プラン・料金の詳細
 </td>
 </tr>
 <tr>
-<td align="left"><strong>カスタマーサポート機能</strong>
+<td align="left"><strong>カスタマーサポート</strong>
 
 <ul>
 <li>表示、返信</li>
