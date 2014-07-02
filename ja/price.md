@@ -272,6 +272,10 @@ title: プラン・料金の詳細
 <td align="right">フォームプラン￥600/月（税別）<br>ベーシック・プロプラン￥1,000/月（税別）</td>
 </tr>
 <tr>
+<td align="right">返信テンプレート追加</td>
+<td align="right">5テンプレートあたり￥1,000/月（税別）</td>
+</tr>
+<tr>
 <td align="right">カスタマーポータル<br>ユーザー追加</td>
 <td align="right">100人あたり￥3,000/月（税別）</td>
 </tr>
