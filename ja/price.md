@@ -264,15 +264,15 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="right">ユーザー数</td>
+<td align="right">ユーザー追加</td>
 <td align="right">ベーシックプラン￥1,500/月（税別）<br>プロプラン￥3,000/月（税別）</td>
 </tr>
 <tr>
-<td align="right">フォーム数</td>
+<td align="right">フォーム追加</td>
 <td align="right">フォームプラン￥600/月（税別）<br>ベーシック・プロプラン￥1,000/月（税別）</td>
 </tr>
 <tr>
-<td align="right">カスタマーポータル<br>ユーザー</td>
+<td align="right">カスタマーポータル<br>ユーザー追加</td>
 <td align="right">100人あたり￥3,000/月（税別）</td>
 </tr>
 </tbody></table>
