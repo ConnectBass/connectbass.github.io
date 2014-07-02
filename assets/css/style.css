@@ -13,3 +13,28 @@
 	background-color: #178acc;
 }
 
+.price th {
+	color: #3261AB;
+	font-size: large;
+	text-align: center;
+}
+
+.price strong {
+	color: #DA5019;
+	font-size: small;
+}
+
+.price li {
+	color: #303030;
+	font-size: smaller;
+}
+
+.options {
+	width: auto;
+}
+
+.options th {
+	color: #3261AB;
+	font-size: large;
+	text-align: center;
+}
