@@ -43,6 +43,8 @@ title: ConnectBass know, understand and connect the customer
 	<p>スマートフォン、タブレットからのアクセスにも最適化されており、外出時にも問い合わせ対応が迅速に行えます。</p>
   </div>
   <div class="col-sm-6">
+    <h3>Google Appsとの連携</h3>
+	<p>ConnectBassの利用には、Google Appsが必要です。Google Appsについてはこちら。</p>  
   </div>
 </div>
 
