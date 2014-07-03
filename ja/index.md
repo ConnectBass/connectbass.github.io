@@ -125,7 +125,7 @@ title: ConnectBass know, understand and connect the customer
 ####営業アシスタントの不満解消
 「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」
 
-
+[活用例の詳細](case.html)
 
 
 
