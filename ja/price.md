@@ -18,7 +18,7 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="left"><strong>無料</strong></td>
+<td align="left"><strong>1ユーザー無料</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>連絡先管理</strong>
