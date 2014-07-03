@@ -18,7 +18,10 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="left"><strong>1ユーザー無料</strong></td>
+<td align="left"><strong>無料</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>1ユーザー</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>連絡先管理</strong>
@@ -76,6 +79,10 @@ title: プラン・料金の詳細
 <td align="left"><strong>フォームあたり￥600/月（税抜）</strong></td>
 </tr>
 <tr>
+<tr>
+<td align="left"><strong>1ユーザー</strong></td>
+</tr>
+<tr>
 <td align="left"><strong>連絡先管理</strong>
 
 <ul>
@@ -130,7 +137,10 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="left"><strong>3ユーザー￥5,000/月（税抜）</strong></td>
+<td align="left"><strong>￥5,000/月（税抜）</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>3ユーザー</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>連絡先管理</strong>
@@ -197,7 +207,10 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="left"><strong>5ユーザー￥15,000/月（税抜）</strong></td>
+<td align="left"><strong>￥15,000/月（税抜）</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>5ユーザー</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>連絡先管理</strong>
