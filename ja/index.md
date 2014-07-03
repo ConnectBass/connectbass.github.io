@@ -44,7 +44,8 @@ title: ConnectBass know, understand and connect the customer
   </div>
   <div class="col-sm-6">
     <h3>Google Appsとの連携</h3>
-	<p>ConnectBassの利用には、Google Appsが必要です。Google Appsについてはこちら。</p>  
+	<p>ConnectBassの利用には、Google Appsが必要です。
+メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。Google Appsについての詳細はこちら。</p>  
   </div>
 </div>
 
