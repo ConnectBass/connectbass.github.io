@@ -12,13 +12,14 @@ title: ConnectBass know, understand and connect the customer
       <img class="media-object" src="/assets/img/devices_320.png" width="320">
     </div>
     <div class="col-sm-6 text-right">
-      <p>期間限定、有料プランも無料で利用できます。<br />今すぐ試してみる！</p>
+      <p>期間限定、有料プランも無料で利用できます。</p>
 
       <div ng-controller="sinCtrl">
         <div ng-show="errorMsg">{{ errorMsg }}</div>
         <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
       </div>
-    </div>
+      <p>今すぐ試してみる！</p>
+    </div>    
   </div>
 
 </div>
