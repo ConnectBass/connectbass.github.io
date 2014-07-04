@@ -43,6 +43,8 @@ title: ConnectBass know, understand and connect the customer
 	<p>スマートフォン、タブレットからのアクセスにも最適化されており、外出時にも問い合わせ対応が迅速に行えます。</p>
   </div>
   <div class="col-sm-6">
+    <h3>Google Appsとの連携</h3>
+	<p>ConnectBassの利用には、Google Appsが必要です。Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。Google Appsについての詳細はこちら。</p>  
   </div>
 </div>
 
@@ -117,7 +119,7 @@ title: ConnectBass know, understand and connect the customer
 ###ConnectBassでデキルこと。カイケツできること。
 
 ####社内の問合せ対応で利用
-「個人宛にくる社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」
+「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」
 
 ####インバウンドマーケティングに利用
 「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」  
