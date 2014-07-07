@@ -6,7 +6,7 @@ title: 特定商取引法に基づく表示
 
 ###<span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span> 特定商取引法に基づく表示
 
-:-----|-----
+:-----|:-----
 1．ConnectBassサービス利用料金|[サービスプラン](price.html)をご覧ください。
 2．代金の支払時期・支払方法|サービス利用料金は1年間前払いとなります。<br>
 	有料サービスのお申込みをいただいた時点で利用料金のお支払手続となります。<br>
