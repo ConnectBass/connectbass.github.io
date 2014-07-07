@@ -13,6 +13,10 @@
 	background-color: #178acc;
 }
 
+.imgMargin {
+	margin: 10px;
+}
+
 .price th {
 	color: #3261AB;
 	font-size: midium;
@@ -46,6 +50,11 @@
 
 .description {
 	line-height: 180%;
+}
+
+.descQuote {
+	line-height: 180%;
+	padding-left: 30px;
 }
 
 .logoTypoPrefix {
