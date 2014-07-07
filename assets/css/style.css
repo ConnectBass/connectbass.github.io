@@ -38,3 +38,7 @@
 	font-size: medium;
 	text-align: center;
 }
+
+.media-body p {
+	line-height: 180%;
+}

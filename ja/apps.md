@@ -1,3 +1,14 @@
+---
+layout: top
+title: Google Appsを導入しよう！
+---
+
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li class="active">Google Appsを導入しよう！</li>
+</ol>
+
+
 ###Google Appsを導入しよう！
 Google Apps for Bisiness は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。  
 メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。  
@@ -46,3 +57,9 @@ Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年
 Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年
 
 ####ConnectBassはGoogle Apps 販売パートナーです
+
+
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li class="active">Google Appsを導入しよう！</li>
+</ol>
