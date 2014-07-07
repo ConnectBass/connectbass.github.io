@@ -4,7 +4,7 @@ title: ConnectBass know, understand and connect the customer
 ---
 
 <div class="jumbotron">
-  <h2>ConnectBass（コネクトバス）は、</h2>
+  <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）は、</h2>
   <p class="lead">お客様からの問い合わせをGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
 
   <div class="row">
@@ -25,7 +25,7 @@ title: ConnectBass know, understand and connect the customer
 </div>
 
 
-<h2 class="text-center">ConnectBassの特徴</h2>
+<h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>の特徴</h2>
 
 <div class="row">
   <div class="col-sm-6">
@@ -50,7 +50,7 @@ title: ConnectBass know, understand and connect the customer
 </div>
 
 
-<h2 class="text-center">ConnectBassの機能</h2>
+<h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>の機能</h2>
 
 <div class="row">
   <div class="col-sm-6">
@@ -102,7 +102,7 @@ title: ConnectBass know, understand and connect the customer
   </div>
 </div>
 
-##ConnectBassのプラン・料金
+##<span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>のプラン・料金
 
 ###期間限定！今なら全サービス無料でご利用できます。
 
@@ -115,7 +115,7 @@ title: ConnectBass know, understand and connect the customer
 
 [プラン・料金の詳細 >](price.html)
 
-##ConnectBass活用事例
+##<span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例
 
 ###ConnectBassでデキルこと。カイケツできること。
 
