@@ -102,7 +102,7 @@ title: ConnectBass know, understand and connect the customer
   </div>
 </div>
 
-<h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span><h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>のプラン・料金</h2>
+<h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>のプラン・料金</h2>
 
 ###期間限定！今なら全サービス無料でご利用できます。
 
@@ -115,7 +115,7 @@ title: ConnectBass know, understand and connect the customer
 
 [プラン・料金の詳細 >](price.html)
 
-<h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span><h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
+<h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
 
 ###ConnectBassでデキルこと。カイケツできること。
 
