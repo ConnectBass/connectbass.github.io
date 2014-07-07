@@ -12,13 +12,14 @@ title: ConnectBass know, understand and connect the customer
       <img class="media-object" src="/assets/img/devices_320.png" width="320">
     </div>
     <div class="col-sm-6 text-right">
-      <p>期間限定、有料プランも無料で利用できます。<br />今すぐ試してみる！</p>
+      <p>期間限定、有料プランも無料で利用できます。</p>
 
       <div ng-controller="sinCtrl">
         <div ng-show="errorMsg">{{ errorMsg }}</div>
         <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
       </div>
-    </div>
+      <p>今すぐ試してみる！</p>
+    </div>    
   </div>
 
 </div>
@@ -28,7 +29,7 @@ title: ConnectBass know, understand and connect the customer
 
 <div class="row">
   <div class="col-sm-6">
-    <h3>コンタクト情報を一元管理</h3>
+    <h3>コンタクト（連絡先）情報を一元管理</h3>
     <p>お問い合わせの連絡先情報はGoogle Appsへ自動的に追加され、Gmailのアドレス帳として共有されます。お問い合わせ内容などの情報はConnectBassに保存され、Google Appsの連絡先情報と連携して一元管理されます。</p>
   </div>
   <div class="col-sm-6">
@@ -44,7 +45,7 @@ title: ConnectBass know, understand and connect the customer
   </div>
   <div class="col-sm-6">
     <h3>Google Appsとの連携</h3>
-	<p>ConnectBassの利用には、Google Appsが必要です。Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。Google Appsについての詳細はこちら。</p>  
+	<p>ConnectBassの利用には、Google Appsが必要です。<br>Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。　Google Appsの詳細 ></p>  
   </div>
 </div>
 
@@ -112,7 +113,7 @@ title: ConnectBass know, understand and connect the customer
   <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 </div>
 
-[プラン・料金の詳細](price.html)
+[プラン・料金の詳細 >](price.html)
 
 ##ConnectBass活用事例
 
@@ -127,7 +128,7 @@ title: ConnectBass know, understand and connect the customer
 ####営業アシスタントの不満解消
 「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」
 
-[活用例の詳細](case.html)
+[活用例の詳細 >](case.html)
 
 
 
