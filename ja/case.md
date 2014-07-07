@@ -10,7 +10,7 @@ title: 活用例の詳細
 
 <div class="media">
   <div class="pull-right">
-    <img class="media-object" src="/assets/img/case/p6_1.jpg" width="400">
+    <img class="media-object" src="/assets/img/case/p6_1.jpg" width="600">
   </div>
   <div class="media-body">
   
