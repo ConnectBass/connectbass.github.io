@@ -9,7 +9,7 @@ title: ConnectBass know, understand and connect the customer
 
   <div class="row">
     <div class="col-sm-6">
-      <img class="media-object" src="/assets/img/devices_320.png" width="320">
+      <img class="media-object" src="/assets/img/top/devices_320.png" width="320">
     </div>
     <div class="col-sm-6 text-right">
       <p>期間限定、有料プランも無料で利用できます。</p>
@@ -19,7 +19,7 @@ title: ConnectBass know, understand and connect the customer
         <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
       </div>
       <p>今すぐ試してみる！</p>
-    </div>    
+    </div>
   </div>
 
 </div>
@@ -58,13 +58,13 @@ title: ConnectBass know, understand and connect the customer
 	<p>Webフォームまたは、ConnectBass管理画面から、Google Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には、過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
   </div>
   <div class="col-sm-6">
-    <img data-src="holder.js/300x220" alt="...">
+    <img src="/assets/img/top/contact.png" width="320" height="220">
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-6">
-    <img data-src="holder.js/300x220" alt="...">
+    <img src="/assets/img/top/form.png" width="320" height="220">
   </div>
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-pencil"></span> Webフォーム</h4>
@@ -78,7 +78,7 @@ title: ConnectBass know, understand and connect the customer
 	<p>サポートチケットが発行された問い合わせの一覧から、対応状況、担当者、過去の対応履歴が瞬時に確認でき、迅速に返信することができます。お客様にも問い合わせ履歴画面を提供することができます。</p>
   </div>
   <div class="col-sm-6">
-    <img data-src="holder.js/300x220" alt="...">
+    <img src="/assets/img/top/case.png" width="320" height="220">
   </div>
 </div>
 
@@ -98,7 +98,7 @@ title: ConnectBass know, understand and connect the customer
 	<p>お客様がどのページを見てから問い合わせてきたのか、過去どのようなアクションを取ったのかを把握することができます。また、Google Analytics との連携もできます。</p>
   </div>
   <div class="col-sm-6">
-    <img data-src="holder.js/300x220" alt="...">
+    <img src="/assets/img/top/access.png" width="320" height="220">
   </div>
 </div>
 
