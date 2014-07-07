@@ -5,7 +5,7 @@ title: ConnectBass know, understand and connect the customer
 
 <div class="jumbotron">
   <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）は、</h2>
-  <p class="lead">お客様からの問い合わせをGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
+  <p class="lead">お客様からの問い合わせ、連絡先情報をGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
 
   <div class="row">
     <div class="col-sm-6">
@@ -125,7 +125,7 @@ title: ConnectBass know, understand and connect the customer
 ####インバウンドマーケティングに利用
 「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」  
 
-####営業アシスタントの不満解消
+####Google Appsに連絡先共有を簡単に導入
 「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」
 
 [活用例の詳細 >](case.html)
