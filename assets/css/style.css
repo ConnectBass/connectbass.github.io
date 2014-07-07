@@ -39,7 +39,12 @@
 	text-align: center;
 }
 
-.media-body p {
+.descSubHead {
+	color: #0050A3;
+	font-size: medium;
+}
+
+.description {
 	line-height: 180%;
 }
 
