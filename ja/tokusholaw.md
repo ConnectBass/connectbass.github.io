@@ -1,5 +1,8 @@
 
-
+---
+layout: top
+title: 特定商取引法に基づく表示
+---
 
 ###<span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span> 特定商取引法に基づく表示
 
