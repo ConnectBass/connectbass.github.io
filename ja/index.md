@@ -58,17 +58,17 @@ title: ConnectBass know, understand and connect the customer
 	<p>Webフォームまたは、ConnectBass管理画面から、Google Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には、過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
   </div>
   <div class="col-sm-6">
-    <img src="/assets/img/top/contact.png" width="320" height="220">
+    <img src="/assets/img/top/contact.png" width="320" height="220" class="img-thumbnail">
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-6">
-    <img src="/assets/img/top/form.png" width="320" height="220">
-  </div>
-  <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-pencil"></span> Webフォーム</h4>
 	<p>問い合わせWebフォームからGoogle Appsの共有連絡先への登録に加え、登録完了メール送信、ファイルダウンロード、カスタマーサポートチケットの発行などの後続処理ができ、様々なシチュエーションの問い合わせフォームの作成が可能です。</p>
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/top/form.png" width="320" height="220" class="img-thumbnail">
   </div>
 </div>
 
@@ -78,17 +78,17 @@ title: ConnectBass know, understand and connect the customer
 	<p>サポートチケットが発行された問い合わせの一覧から、対応状況、担当者、過去の対応履歴が瞬時に確認でき、迅速に返信することができます。お客様にも問い合わせ履歴画面を提供することができます。</p>
   </div>
   <div class="col-sm-6">
-    <img src="/assets/img/top/case.png" width="320" height="220">
+    <img src="/assets/img/top/case.png" width="320" height="220" class="img-thumbnail">
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-6">
-    <img data-src="holder.js/300x220" alt="...">
-  </div>
-  <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-envelope"></span> メール配信</h4>
 	<p>過去のアクセスやアクションを元にメール配信ができます。条件を設定ですることで、フォローメールの自動発信もできます。</p>
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/top/p7_2_320.jpg" width="320" height="214" class="img-thumbnail">
   </div>
 </div>
 
@@ -98,7 +98,7 @@ title: ConnectBass know, understand and connect the customer
 	<p>お客様がどのページを見てから問い合わせてきたのか、過去どのようなアクションを取ったのかを把握することができます。また、Google Analytics との連携もできます。</p>
   </div>
   <div class="col-sm-6">
-    <img src="/assets/img/top/access.png" width="320" height="220">
+    <img src="/assets/img/top/access.png" width="320" height="220" class="img-thumbnail">
   </div>
 </div>
 
