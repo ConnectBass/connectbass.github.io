@@ -5,7 +5,7 @@ title: ConnectBass know, understand and connect the customer
 
 <div class="jumbotron">
   <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）は、</h2>
-  <p class="lead">お客様からの問い合わせをGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
+  <p class="lead">お客様からの問い合わせ、連絡先情報をGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
 
   <div class="row">
     <div class="col-sm-6">
