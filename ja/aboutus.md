@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about us
 title: 会社概要
 ---
 
