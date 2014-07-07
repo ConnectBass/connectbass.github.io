@@ -33,7 +33,7 @@ title: 活用例の詳細
   </div>
   <div class="media-body">
   
-<h3 class="media-heading"><img src="/assets/img/case/logotypograph.png" width="278" alt="ConnectBass">なら、社内の問い合わせ管理にも活用できます！</h3>
+<h3 class="media-heading"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>なら、社内の問い合わせ管理にも活用できます！</h3>
 
 <p>「人の事」に関するあらゆる業務を担当する人事部は社員からのお問い合せも日常茶飯事でしょう。社内の問い合わせゆえに、聞きやすい人や、知っている人に質問が集中しがちですよね。<br>
 ConnectBassを利用して、社員＝お客様と考えて、社員からの問い合わせも一元管理しましょう。<br>
@@ -108,7 +108,7 @@ ConnectBassを利用し、相手の興味に合わせたプレミアムコンテ
   </div>
   <div class="media-body">
   
-<h3 class="media-heading"><img src="/assets/img/case/logotypograph.png" width="278" alt="ConnectBass">で、Google Appsの共有アドレス帳を簡単導入。</h3>
+<h3 class="media-heading"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>で、Google Appsの共有アドレス帳を簡単導入。</h3>
 
 <p>急にお客様から連絡があり、折り返しの連絡をしなければいけないことがありますよね。営業に連絡しても打ち合わせ中で、返事をもらうまでに時間がかかってしまうとか、待っているほうもツライでしょう。急ぎの場合はなおさらです。<br>
 ConnectBassを利用すれば、Google Appsの共有連絡先に簡単に連絡先を追加し、共有することができるので、営業担当が不在でも困ることはありません。<br>

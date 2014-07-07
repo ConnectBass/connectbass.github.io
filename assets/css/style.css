@@ -42,3 +42,14 @@
 .media-body p {
 	line-height: 180%;
 }
+
+.logoTypoPrefix {
+	color: #0050A3;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+}
+
+.logoTypoSuffix {
+	color: #EE7300;
+	font-family: Verdana, Arial, sans-serif;
+}
