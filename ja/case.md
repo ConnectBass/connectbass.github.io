@@ -84,6 +84,8 @@ ConnectBassを利用して、社員＝お客様と考えて、社員からの問
 ConnectBassを利用し、相手の興味に合わせたプレミアムコンテンツやeBookなどをダウンロードさせるWebフォームを作成しましょう。複数のWebフォームを活用し、段階に応じた属性情報を取得し、その属性情報をベースにお客様をセグメントし、メールを配信していきましょう。<br>
 インバウンドマーケティングにより、購買意欲のある質の高いリード（見込み客）を営業担当者に紹介することで、営業活動の効率化と成果につながります。</p>
 
+<p><strong>関連情報：</strong>
+<li><a href="http://connectbass.blogspot.jp/2014/05/blog-post_5321.html?utm_source=cbwww&utm_medium=link&utm_campaign=case" target="_">育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a></p>
 
   </div>
 </div>
