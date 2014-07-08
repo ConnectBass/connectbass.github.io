@@ -21,7 +21,7 @@ title: プラン・料金の詳細
 <td align="center"><strong>無料</strong></td>
 </tr>
 <tr>
-<td>
+<td align="center">
       <div ng-controller="sinCtrl">
         <div ng-show="errorMsg">{{ errorMsg }}</div>
         <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
