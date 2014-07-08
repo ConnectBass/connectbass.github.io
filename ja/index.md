@@ -34,7 +34,7 @@ title: ConnectBass know, understand and connect the customer
   </div>
   <div class="col-sm-6">
     <h3>対応状況も一目瞭然</h3>
-    <p>お客様からの問い合わせを、メーリングリストや掲示板で情報が整理されず、時系列に蓄積されているだけで、対応漏れなどが発生していないですか？ ConnectBassなら、対応状況も過去の問い合わせ対応履歴にすぐアクセスできます。</p>
+    <p>お客様からの問い合わせ情報がメーリングリストや掲示板で整理されず、時系列に蓄積されているだけで、対応漏れなどが発生していませんか？ ConnectBassなら、対応状況も過去の問い合わせ対応履歴にもすぐアクセスできます。</p>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ title: ConnectBass know, understand and connect the customer
   </div>
   <div class="col-sm-6">
     <h3>Google Appsとの連携</h3>
-	<p>ConnectBassの利用には、Google Appsが必要です。<br>Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。　Google Appsの詳細 ></p>  
+	<p>ConnectBassの利用にはGoogle Appsが必要です。<br>Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。　Google Appsの詳細 ></p>  
   </div>
 </div>
 
@@ -55,7 +55,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-user"></span> 連絡先管理</h4>
-	<p class="descQuote">Webフォームまたは、ConnectBass管理画面から、Google Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には、過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
+	<p class="descQuote">Webフォームまたは、ConnectBass管理画面からGoogle Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/contact.png" width="320" height="220" class="img-thumbnail imgMargin">
@@ -75,7 +75,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-search"></span> カスタマーサポート</h4>
-	<p class="descQuote">サポートチケットが発行された問い合わせの一覧から、対応状況、担当者、過去の対応履歴が瞬時に確認でき、迅速に返信することができます。お客様にも問い合わせ履歴画面を提供することができます。</p>
+	<p class="descQuote">サポートチケットが発行された問い合わせの一覧から対応状況、担当者、過去の対応履歴が瞬時に確認でき、迅速に返信することができます。お客様にも問い合わせ履歴画面を提供することができます。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/case.png" width="320" height="220" class="img-thumbnail imgMargin">
@@ -85,7 +85,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-envelope"></span> メール配信</h4>
-	<p class="descQuote">過去のアクセスやアクションを元にメール配信ができます。条件を設定ですることで、フォローメールの自動発信もできます。</p>
+	<p class="descQuote">過去のアクセスやアクションを元にメール配信ができます。条件を設定することで、フォローメールの自動発信もできます。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/p7_2_320.jpg" width="320" height="214" class="img-thumbnail imgMargin">
