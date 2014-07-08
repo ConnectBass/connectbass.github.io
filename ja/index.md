@@ -117,12 +117,12 @@ title: ConnectBass know, understand and connect the customer
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
 
-###ConnectBassでデキルこと。カイケツできること。
+<h4>ConnectBassでデキルこと。カイケツできること。</h4>
 
 <div class="row">
   <div class="col-sm-4">
-  <h3>ケース1：</h3>
-  <h4>社内の問合せ対応で利用</h4>
+  <p>ケース1：</p>
+  <h3>社内の問合せ対応で利用</h3>
   <p>「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</p>
   </div>
 
