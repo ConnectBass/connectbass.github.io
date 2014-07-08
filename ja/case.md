@@ -85,7 +85,9 @@ ConnectBassを利用し、相手の興味に合わせたプレミアムコンテ
 インバウンドマーケティングにより、購買意欲のある質の高いリード（見込み客）を営業担当者に紹介することで、営業活動の効率化と成果につながります。</p>
 
 <p><strong>関連情報：</strong>
-<li><a href="http://connectbass.blogspot.jp/2014/05/blog-post_5321.html?utm_source=cbwww&utm_medium=link&utm_campaign=case" target="_">育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a></p>
+<li><a href="http://connectbass.blogspot.jp/2014/05/blog-post_5321.html?utm_source=cbwww&utm_medium=link&utm_campaign=case" target="_">育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
+<li><a href="http://connectbass.blogspot.jp/2014/06/blog-post.html?utm_source=cbwww&utm_medium=link&utm_campaign=case" target="_">続編～育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
+</p>
 
   </div>
 </div>
