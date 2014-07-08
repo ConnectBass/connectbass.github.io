@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: top_ja
 title: プラン・料金の詳細
 ---
 

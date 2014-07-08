@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: top_ja
 title: ConnectBass know, understand and connect the customer
 ---
 

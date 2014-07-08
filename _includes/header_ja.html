@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html ng-app="cbSin" id="ng-app">
+  <head>
+    <title>ConnectBass : {{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/assets/css/cerulean_bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="/assets/ico/favicon.ico">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/assets/js/html5shiv.js"></script>
+      <script src="/assets/js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/assets/css/style.css">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-44540146-2', 'connectbass.com');
+	  ga('require', 'displayfeatures', 'linkid', 'linkid.js');
+	  ga('send', 'pageview');
+	</script>
+  </head>
+  <body>
+
+
+    <div class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="/" class="navbar-brand"><img src="/assets/img/connect_bass_side.png"></a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="http://connectbass.blogspot.com/?utm_source=cbwww&utm_medium=link&utm_campaign=header">Blog</a>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">Lang <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="download">
+                <li><a tabindex="-1" href="/en/">English</a></li>
+                <li><a tabindex="-1" href="/ja/">Japanese</a></li>
+              </ul>
+            </li>
+            <li style="padding-top: 10px">
+			  <div ng-controller="sinCtrl">
+				<div ng-show="errorMsg">{{ errorMsg }}</div>
+				<google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+			  </div>
+			</li>
+          </ul>
+
+        </div>
+      </div>
+    </div>

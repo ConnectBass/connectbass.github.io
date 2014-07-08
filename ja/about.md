@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: top_ja
 title: About us
 ---
 
@@ -53,7 +53,7 @@ title: About us
 		  <li>Google Apps 販売パートナー</li>
 		  <li>AWS テクノロジーパートナー</li>
 		</ul>
-  </td>
+	  </td>
     </tr>
     <tr>
 	  <td></td>

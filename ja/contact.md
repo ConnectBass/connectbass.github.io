@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: top_ja
 title: ConectBassへのお問い合わせ
 ---
 

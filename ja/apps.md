@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: top_ja
 title: Google Appsを導入しよう！
 ---
 

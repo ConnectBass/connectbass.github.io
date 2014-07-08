@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: top_ja
 title: 活用例の詳細
 ---
 
