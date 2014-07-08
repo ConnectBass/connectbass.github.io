@@ -83,7 +83,7 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="center"><strong>￥600/月（税抜）</strong></td>
+<td align="center"><strong><del>￥600/月（税抜）</del></strong></td>
 </tr>
 <tr>
 <tr>
