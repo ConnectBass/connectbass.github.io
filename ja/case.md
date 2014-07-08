@@ -11,7 +11,7 @@ title: 活用例の詳細
 <div class="row">
   <div class="col-sm-8">
 
-<h3 class="media-heading">「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</h3>
+<h3 class="media-heading">ケース1：<br>「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</h3>
 
 <h4 class="descSubHead">~　人事部10年、佐藤さんの悩み</h4>
 
