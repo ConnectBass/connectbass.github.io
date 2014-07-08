@@ -310,13 +310,12 @@ title: プラン・料金の詳細
 <p>*マーケティングメール配信は後日提供予定</p>
 
 
-<p>今すぐ試してみる！</p>
+<p>今すぐ試してみる！
 <div ng-controller="sinCtrl">
   <div ng-show="errorMsg">{{ errorMsg }}</div>
   <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 </div>
-
-
+</p>
 
 
 <ol class="breadcrumb">
