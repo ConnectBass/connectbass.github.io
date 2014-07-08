@@ -127,7 +127,7 @@ ConnectBassを利用すれば、Google Appsの共有連絡先に簡単に連絡�
 これまで個人の連絡帳で管理してきた情報をチームまたは組織全体の連絡帳として管理、共有することができるのです。担当者の異動や退職時の引き継ぎもスムーズにでき、重複営業の防止にも繋がります。<br>
 連絡先を共有することでより質の高いアシスタント業務が可能になります。</p>
 
-<p>関連情報：
+<p><strong>関連情報：</strong>
 <li><a href="http://connectbass.blogspot.jp/2014/05/google-apps.html?utm_source=cbwww&utm_medium=link&utm_campaign=case" target="_">そのままでは利用できない、Google Apps 共有連絡先を使うには</a></p>
   </div>
 </div>
