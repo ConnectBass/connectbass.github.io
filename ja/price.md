@@ -8,7 +8,7 @@ title: プラン・料金の詳細
   <li class="active">プラン・料金の詳細</li>
 </ol>
 
-<p>期間限定！今なら全サービス無料でご利用できます。</p>
+<p>期間限定！今なら全プラン無料でご利用できます。</p>
 <div ng-controller="sinCtrl">
 <div ng-show="errorMsg">{{ errorMsg }}</div>
 <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
@@ -83,7 +83,7 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="center"><strong><del>￥600/月（税抜）</del></strong></td>
+<td align="center"><strong><del>￥600/月（税抜）</del>￥0</strong></td>
 </tr>
 <tr>
 <tr>
