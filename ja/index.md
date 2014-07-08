@@ -120,17 +120,17 @@ title: ConnectBass know, understand and connect the customer
 ###ConnectBassでデキルこと。カイケツできること。
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-4">
   <h3>ケース1：社内の問合せ対応で利用</h3>>
   <p>「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-sm-4">
   <h3>ケース2：インバウンドマーケティングに利用</h3>
   <p>「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」</p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-sm-4">
   <h3>Google Appsに連絡先共有を簡単に導入</h3>
   <p>「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」</p>
   </div>
