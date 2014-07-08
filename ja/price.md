@@ -10,8 +10,8 @@ title: プラン・料金の詳細
 
 <p>期間限定！今なら全プラン無料でご利用できます。</p>
 <div ng-controller="sinCtrl">
-<div ng-show="errorMsg">{{ errorMsg }}</div>
-<google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+  <div ng-show="errorMsg">{{ errorMsg }}</div>
+  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 </div>
 <p>今すぐ試してみる！</p>
 
@@ -276,6 +276,13 @@ title: プラン・料金の詳細
   </div>
 </div>
 
+
+<p>期間限定！今なら全プラン無料でご利用できます。</p>
+<div ng-controller="sinCtrl">
+  <div ng-show="errorMsg">{{ errorMsg }}</div>
+  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+</div>
+<p>今すぐ試してみる！</p>
 
 
 <table class="table table-bordered table-striped options"><thead>
