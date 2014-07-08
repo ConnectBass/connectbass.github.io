@@ -105,13 +105,13 @@ title: ConnectBass know, understand and connect the customer
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>のプラン・料金</h2>
 
 <h3>期間限定！今なら全てのプランが無料でご利用できます。</h3>
-
+<p class="bg-success">
 <h4 align="center">今すぐ、試してみる</h4>
-
 <div ng-controller="sinCtrl" align="center">
   <div ng-show="errorMsg">{{ errorMsg }}</div>
   <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 </div>
+</p>
 
 <p align="right"><a href="price.html">プラン・料金の詳細 ></a></p>
 
