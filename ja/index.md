@@ -55,7 +55,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-user"></span> 連絡先管理</h4>
-	<p class="descQuote">Webフォームまたは、ConnectBass管理画面からGoogle Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
+	<p class="descQuote">Webフォームまたは、ConnectBass管理画面から、Google Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には、過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/contact.png" width="320" height="220" class="img-thumbnail imgMargin">
@@ -65,7 +65,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-pencil"></span> Webフォーム</h4>
-	<p class="descQuote">問い合わせWebフォームからGoogle Appsの共有連絡先への登録に加え、登録完了メール送信、ファイルダウンロード、カスタマーサポートチケットの発行などの後続処理ができ、様々なシチュエーションの問い合わせフォームの作成が可能です。</p>
+	<p class="descQuote">問い合わせWebフォームから、Google Appsの共有連絡先への登録に加え、登録完了メール送信、ファイルダウンロード、カスタマーサポートチケットの発行などの後続処理ができ、様々なシチュエーションの問い合わせフォームの作成が可能です。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/form.png" width="320" height="220" class="img-thumbnail imgMargin">
