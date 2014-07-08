@@ -144,7 +144,7 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="center"><strong>￥5,000/月（税抜）</strong></td>
+<td align="center"><strong><del>￥5,000/月（税抜）</del>今なら無料</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>3ユーザー</strong></td>
@@ -214,7 +214,7 @@ title: プラン・料金の詳細
 </tr>
 </thead><tbody>
 <tr>
-<td align="center"><strong>￥15,000/月（税抜）</strong></td>
+<td align="center"><strong><del>￥15,000/月（税抜）</del>今なら無料</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>5ユーザー</strong></td>
@@ -277,14 +277,6 @@ title: プラン・料金の詳細
 </div>
 
 
-<p>期間限定！今なら全プラン無料でご利用できます。</p>
-<div ng-controller="sinCtrl">
-  <div ng-show="errorMsg">{{ errorMsg }}</div>
-  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-</div>
-<p>今すぐ試してみる！</p>
-
-
 <table class="table table-bordered table-striped options"><thead>
 <tr>
 <th colspan="2">追加オプション費用</th>
@@ -316,6 +308,15 @@ title: プラン・料金の詳細
 
 
 <p>*マーケティングメール配信は後日提供予定</p>
+
+
+<p>今すぐ試してみる！</p>
+<div ng-controller="sinCtrl">
+  <div ng-show="errorMsg">{{ errorMsg }}</div>
+  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+</div>
+
+
 
 
 <ol class="breadcrumb">
