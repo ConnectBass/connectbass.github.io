@@ -55,7 +55,7 @@ ConnectBassを利用して、社員＝お客様と考えて、社員からの問
 <div class="row">
   <div class="col-sm-8">
 
-<h3 class="media-heading">「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」</h3>
+<h3 class="media-heading">ケース2：<br>「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」</h3>
 
 <h4 class="descSubHead">~　マーケティング担当 5年、田中さんの悩み</h4>
 
@@ -97,7 +97,7 @@ ConnectBassを利用し、相手の興味に合わせたプレミアムコンテ
 <div class="row">
   <div class="col-sm-8">
 
-<h3 class="media-heading">「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」</h3>
+<h3 class="media-heading">ケース3：<br>「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」</h3>
 
 <h4 class="descSubHead">~　営業アシスタント歴 2年、石原さんの悩み</h4>
 
@@ -132,8 +132,6 @@ ConnectBassを利用すれば、Google Appsの共有連絡先に簡単に連絡�
 </div>
 
 
-
-<hr />
 
 
 <ol class="breadcrumb">
