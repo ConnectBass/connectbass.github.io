@@ -113,7 +113,7 @@ title: ConnectBass know, understand and connect the customer
   <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 </div>
 
-[プラン・料金の詳細 >](price.html)
+<p align="right"><a href="price.html">プラン・料金の詳細 ></a></p>
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
 
