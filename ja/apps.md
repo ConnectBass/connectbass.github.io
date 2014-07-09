@@ -79,12 +79,12 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 </div>
 
 
-<h2>Google Apps ご利用料金</h2>
+<h3>Google Apps ご利用料金</h3>
 <ul>
 <li>Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年</li>
 <li>Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年</li>
 </ul>
-<h3 align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps 販売パートナーです</h3>
+<h2 align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps 販売パートナーです</h2>
 <a id="appscontact"></a>
 <p>Google Appsの30日間の無料トライアル、導入前のご相談などのお問い合わせはこちらから</p>
 <div id="connectBassCampaignContactForm"></div>
