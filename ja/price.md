@@ -9,12 +9,7 @@ title: プラン・料金の詳細
 </ol>
 
 <p>期間限定！今なら全プラン無料でご利用できます。</p>
-<div ng-controller="sinCtrl">
-  <div ng-show="errorMsg">{{ errorMsg }}</div>
-  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-</div>
-<p>今すぐ試してみる！</p>
-
+<p><a href="tryit.html" class="btn btn-success"><strong>今すぐ試してみる！</strong></a></p>
 
 <div class="row">
   <div class="col-sm-3">

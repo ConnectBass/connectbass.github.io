@@ -138,12 +138,7 @@ ConnectBassを利用すれば、Google Appsの共有連絡先に簡単に連絡�
 
 <h3 align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span> を今なら無料でご利用できます。</h3>
 
-<div ng-controller="sinCtrl" align="center">
-  <div ng-show="errorMsg">{{ errorMsg }}</div>
-  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-</div>
-<h4 align="center">今すぐ、試してみる</h4>
-
+<p align="center"><a href="tryit.html" class="btn btn-success"><strong>今すぐ試してみる！</strong></a></p>
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
