@@ -79,20 +79,20 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 </div>
 
 
-<h3>Google Apps ご利用料金</h3>
+<h2>Google Apps ご利用料金</h2>
 <ul>
 <li>Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年</li>
 <li>Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年</li>
 </ul>
+<h3>ConnectBassはGoogle Apps 販売パートナーです</h3>
 
-ConnectBassはGoogle Apps 販売パートナーです
 <h3>Google Appsについてのお問い合わせ</h3>
-<a name="appscontact">
+<a name="appscontact"></a>
 <p>30日間の無料トライアル、導入前のご相談はこちらから</p>
 <div id="connectBassCampaignContactForm"></div>
 <script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
 <script type="text/javascript" src="/assets/js/cbfm-emb2.js"></script>
-</a>
+
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
