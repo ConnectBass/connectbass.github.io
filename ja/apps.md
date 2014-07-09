@@ -19,8 +19,9 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
 <h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
 <div class="row">
   <div class="col-sm-4">
+    <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
     <h4>Gmail</h3>
-    <p><img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">独自のドメインが利用できます。1人30Gの大容量で高精度の迷惑メールフィルタが標準装備。<br>
+    <p>独自のドメインが利用できます。1人30Gの大容量で高精度の迷惑メールフィルタが標準装備。<br>
     Googleの高速検索エンジンで、すべてのメール、ドキュメントから検索できるので、探しているものが瞬時に見つかります。</p>
   </div>
 
@@ -33,12 +34,14 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
   </div>
 
   <div class="col-sm-4">
+    <img class="img-responsive" src="/assets/img/googleapps/drive-64.png" width="64">
     <h4>ドライブ</h4>
     <p>あらゆる形式のファイルを保管、共有することができます。権限の付与により、いつでもどこからでも複数人で共同編集できるので、メールに添付してやり取りをする必要がありません。<br>
     アンケートや営業日報などのフォームを作成することもでき、入力内容が自動的にグラフ化されるので、分析も簡単にできます。</p>
   </div>
 
   <div class="col-sm-4">
+    <img class="img-responsive" src="/assets/img/googleapps/icn-hangouts-64.png" width="64">
     <h4>ハングアウト</h4>
     <p>最大15名でビデオ会議ができます。<br>
     ビデオ会議しながらドライブ上のファイルをお互い編集することもでき、どこにいても同じ空間にいるように打合せすることができます。また、スマートフォンやタブレットからでも利用可能なので外出先からでも参加することができます。<br>
@@ -46,6 +49,7 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
   </div>
 
   <div class="col-sm-4">
+    <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
     <h4>サイト</h4>
     <p>スケジュールや文書、プレゼンテーション、動画などあらゆる情報を１か所にまとめスピーディに情報共有することができるイントラネットのWebサイトを簡単に作成することができます。<br>
     サイトの閲覧、編集などの権限はいつでも簡単に設定できます。</p>
