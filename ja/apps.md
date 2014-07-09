@@ -85,6 +85,9 @@ Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年
 
 ####ConnectBassはGoogle Apps 販売パートナーです
 
+<div id="connectBassCampaignContactForm"></div>
+<script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
+<script type="text/javascript" src="/assets/js/cbfm-emb2.js"></script>
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
