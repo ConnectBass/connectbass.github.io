@@ -19,13 +19,13 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
 <h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
 <div class="row">
   <div class="col-sm-4">
-    <h4>Gmail</h3>
+    <h4><img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">Gmail</h3>
     <p>独自のドメインが利用できます。1人30Gの大容量で高精度の迷惑メールフィルタが標準装備。<br>
     Googleの高速検索エンジンで、すべてのメール、ドキュメントから検索できるので、探しているものが瞬時に見つかります。</p>
   </div>
 
   <div class="col-sm-4">
-    <h4>カレンダー</h4>
+    <h4><img class="img-responsive" src="/assets/img/googleapps/calender-64.png" width="64">カレンダー</h4>
     <p>社内やグループで共有することにより、スケジュールの調整や確認が簡単にできます。<br>
     また会議室やプロジェクターなどの設備の予約も可能です。<br>
     メールに招待状を出し出欠確認もできるので、スケジューリングに手間取ることはありません。</p>
