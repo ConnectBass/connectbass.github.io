@@ -17,7 +17,7 @@ title: Google Appsを導入しよう！
 <li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
 </p>
 
-<h2 align="center"><a hrer="#appscontact">Google Appsを体験してみる ></a></h2>
+<h2 align="center"><a href="#appscontact">Google Appsを体験してみる ></a></h2>
 
 <h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
 <div class="row">
@@ -84,8 +84,7 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 <li>Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年</li>
 <li>Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年</li>
 </ul>
-<h2 align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps 販売パートナーです</h2>
-<a id="appscontact"></a>
+<h2 id="appscontact" align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps 販売パートナーです</h2>
 <p>Google Appsの30日間の無料トライアル、導入前のご相談などのお問い合わせはこちらから</p>
 <div id="connectBassCampaignContactForm"></div>
 <script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
