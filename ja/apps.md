@@ -49,7 +49,7 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
   </div>
 
   <div class="col-sm-4">
-    <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
+    <img class="img-responsive" src="/assets/img/googleapps/sites-64.png" width="64">
     <h4>サイト</h4>
     <p>スケジュールや文書、プレゼンテーション、動画などあらゆる情報を１か所にまとめスピーディに情報共有することができるイントラネットのWebサイトを簡単に作成することができます。<br>
     サイトの閲覧、編集などの権限はいつでも簡単に設定できます。</p>
