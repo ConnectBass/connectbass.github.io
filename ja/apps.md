@@ -8,16 +8,13 @@ title: Google Appsを導入しよう！
   <li class="active">Google Appsを導入しよう！</li>
 </ol>
 
-<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="257">
-<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="369">
-
 <h3>Google Appsを導入しよう！</h3>
 <p>Google Apps for Business は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
 メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。<br>
 世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。</p>
 
 <p><strong>関連情報：</strong>
-<li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連の投稿</a>
+<li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
 </p>
 
 <h4>Google Appsを体験してみる</h4>
