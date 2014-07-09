@@ -8,7 +8,7 @@ title: Google Appsを導入しよう！
   <li class="active">Google Appsを導入しよう！</li>
 </ol>
 
-<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="64">
+<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg">
 
 ###Google Appsを導入しよう！
 Google Apps for Business は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。  
