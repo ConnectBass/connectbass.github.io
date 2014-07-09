@@ -14,12 +14,7 @@ title: ConnectBass know, understand and connect the customer
     <div class="col-sm-6 text-right">
       <p>期間限定、有料プランも無料で利用できます。</p>
 
-      <div ng-controller="sinCtrl">
-        <div ng-show="errorMsg">{{ errorMsg }}</div>
-        <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-      </div>
-      <p>今すぐ試してみる！</p>
-    </div>
+      <button type="button" class="btn btn-success">今すぐ試してみる！</button>
   </div>
 
 </div>
