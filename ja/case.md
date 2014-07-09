@@ -11,7 +11,7 @@ title: 活用例の詳細
 <div class="row">
   <div class="col-sm-8">
 
-<h3 class="media-heading">「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</h3>
+<h3 class="media-heading">ケース1：<br>「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</h3>
 
 <h4 class="descSubHead">~　人事部10年、佐藤さんの悩み</h4>
 
@@ -55,7 +55,7 @@ ConnectBassを利用して、社員＝お客様と考えて、社員からの問
 <div class="row">
   <div class="col-sm-8">
 
-<h3 class="media-heading">「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」</h3>
+<h3 class="media-heading">ケース2：<br>「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」</h3>
 
 <h4 class="descSubHead">~　マーケティング担当 5年、田中さんの悩み</h4>
 
@@ -84,6 +84,10 @@ ConnectBassを利用して、社員＝お客様と考えて、社員からの問
 ConnectBassを利用し、相手の興味に合わせたプレミアムコンテンツやeBookなどをダウンロードさせるWebフォームを作成しましょう。複数のWebフォームを活用し、段階に応じた属性情報を取得し、その属性情報をベースにお客様をセグメントし、メールを配信していきましょう。<br>
 インバウンドマーケティングにより、購買意欲のある質の高いリード（見込み客）を営業担当者に紹介することで、営業活動の効率化と成果につながります。</p>
 
+<p><strong>関連情報：</strong>
+<li><a href="http://connectbass.blogspot.jp/2014/05/blog-post_5321.html?utm_source=case&utm_medium=referral&utm_campaign=cbwww" target="_">育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
+<li><a href="http://connectbass.blogspot.jp/2014/06/blog-post.html?utm_source=case&utm_medium=referral&utm_campaign=cbwww" target="_">続編～育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
+</p>
 
   </div>
 </div>
@@ -97,7 +101,7 @@ ConnectBassを利用し、相手の興味に合わせたプレミアムコンテ
 <div class="row">
   <div class="col-sm-8">
 
-<h3 class="media-heading">「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」</h3>
+<h3 class="media-heading">ケース3：<br>「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」</h3>
 
 <h4 class="descSubHead">~　営業アシスタント歴 2年、石原さんの悩み</h4>
 
@@ -127,13 +131,18 @@ ConnectBassを利用すれば、Google Appsの共有連絡先に簡単に連絡�
 これまで個人の連絡帳で管理してきた情報をチームまたは組織全体の連絡帳として管理、共有することができるのです。担当者の異動や退職時の引き継ぎもスムーズにでき、重複営業の防止にも繋がります。<br>
 連絡先を共有することでより質の高いアシスタント業務が可能になります。</p>
 
-
+<p><strong>関連情報：</strong>
+<li><a href="http://connectbass.blogspot.jp/2014/05/google-apps.html?utm_source=case&utm_medium=referral&utm_campaign=cbwww" target="_">そのままでは利用できない、Google Apps 共有連絡先を使うには</a></p>
   </div>
 </div>
 
+<h3 align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span> を今なら無料でご利用できます。</h3>
 
-
-<hr />
+<div ng-controller="sinCtrl" align="center">
+  <div ng-show="errorMsg">{{ errorMsg }}</div>
+  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
+</div>
+<h4 align="center">今すぐ、試してみる</h4>
 
 
 <ol class="breadcrumb">

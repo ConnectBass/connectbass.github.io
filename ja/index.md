@@ -45,7 +45,8 @@ title: ConnectBass know, understand and connect the customer
   </div>
   <div class="col-sm-6">
     <h3>Google Appsとの連携</h3>
-	<p>ConnectBassの利用にはGoogle Appsが必要です。<br>Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。　<a href="apps.html">Google Appsの詳細 ></a></p>  
+	<p>ConnectBassの利用にはGoogle Appsが必要です。<br>Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。</p>
+	<p align="right"><a href="apps.html">Google Appsの詳細 ></a></p>  
   </div>
 </div>
 
@@ -104,31 +105,39 @@ title: ConnectBass know, understand and connect the customer
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>のプラン・料金</h2>
 
-###期間限定！今なら全サービス無料でご利用できます。
+<h3>期間限定！今なら全てのプランが無料でご利用できます。</h3>
 
-####今すぐ、試してみる
-
-<div ng-controller="sinCtrl">
+<h4 align="center">今すぐ、試してみる</h4>
+<div ng-controller="sinCtrl" align="center">
   <div ng-show="errorMsg">{{ errorMsg }}</div>
   <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 </div>
 
-[プラン・料金の詳細 >](price.html)
+
+<p align="right"><a href="price.html">プラン・料金の詳細 ></a></p>
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
 
-###ConnectBassでデキルこと。カイケツできること。
+<h3>ConnectBassでデキルこと。カイケツできること。</h3>
 
-####社内の問合せ対応で利用
-「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」
+<div class="row">
+  <div class="col-sm-4">
+  <h4>ケース1：</br>社内の問合せ対応で利用</h4>
+  <p>「個人宛に届く社員からの問い合わせメール。対応するだけで手いっぱい。なんとかしたいのですが。」</p>
+  </div>
 
-####インバウンドマーケティングに利用
-「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」  
+  <div class="col-sm-4">
+  <h4>ケース2：<br>インバウンドマーケティングに利用</h4>
+  <p>「問い合わせのあったお客様にメルマガを発信しているが、反応がイマイチ。積極的に情報を送り、購買意欲を高めて商品購入へとつなげたいのだが...」</p>
+  </div>
 
-####Google Appsに連絡先共有を簡単に導入
-「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」
+  <div class="col-sm-4">
+  <h4>ケース3：<br>Google Appsに連絡先共有を簡単に導入</h4>
+  <p>「お客様の連絡先は営業しか知らない。営業が不在時はお客様に連絡が取りたくてもすぐに取れない場合があるので困ってしまう。」</p>
+  </div>
+</div>
 
-[活用例の詳細 >](case.html)
+<p align="right"><a href="case.html">活用例の詳細 ></a></p>
 
 
 
