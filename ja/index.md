@@ -14,7 +14,7 @@ title: ConnectBass know, understand and connect the customer
     <div class="col-sm-6 text-right">
       <p>期間限定、有料プランも無料で利用できます。</p>
 
-      <button type="button" class="btn btn-success"><strong>今すぐ試してみる！</strong></button>
+      <button type="button" class="btn btn-success btn-lg">今すぐ試してみる！</button>
   </div>
 
 </div>
