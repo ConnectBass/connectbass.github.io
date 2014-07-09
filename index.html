@@ -30,7 +30,8 @@ function getBrowserLang() {
 function goYourLang(){
   var lang = getBrowserLang();
 
-  if (lang != 'ja') lang = 'en';
+//  if (lang != 'ja') lang = 'en';
+  lang = 'ja';
 
   var targetURL = '/' + lang + '/index.html';
   location.href = targetURL;
