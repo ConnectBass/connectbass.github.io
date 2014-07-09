@@ -25,8 +25,9 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
   </div>
 
   <div class="col-sm-4">
+    <img class="img-responsive" src="/assets/img/googleapps/calendar-64.png" width="64">
     <h4>カレンダー</h4>
-    <p><img class="img-responsive" src="/assets/img/googleapps/calendar-64.png" width="64">社内やグループで共有することにより、スケジュールの調整や確認が簡単にできます。<br>
+    <p>社内やグループで共有することにより、スケジュールの調整や確認が簡単にできます。<br>
     また会議室やプロジェクターなどの設備の予約も可能です。<br>
     メールに招待状を出し出欠確認もできるので、スケジューリングに手間取ることはありません。</p>
   </div>
