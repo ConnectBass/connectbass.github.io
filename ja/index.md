@@ -13,12 +13,7 @@ title: ConnectBass know, understand and connect the customer
     </div>
     <div class="col-sm-6 text-right">
       <p>期間限定、有料プランも無料で利用できます。</p>
-
-      <div ng-controller="sinCtrl">
-        <div ng-show="errorMsg">{{ errorMsg }}</div>
-        <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-      </div>
-      <p>今すぐ試してみる！</p>
+	  <p><a href="tryit.html" class="btn btn-success">今すぐ試してみる！</a></p>
     </div>
   </div>
 
@@ -106,13 +101,7 @@ title: ConnectBass know, understand and connect the customer
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>のプラン・料金</h2>
 
 <h3>期間限定！今なら全てのプランが無料でご利用できます。</h3>
-
-<h4 align="center">今すぐ、試してみる</h4>
-<div ng-controller="sinCtrl" align="center">
-  <div ng-show="errorMsg">{{ errorMsg }}</div>
-  <google-plus-signin clientid="698956359583.apps.googleusercontent.com">
-</div>
-
+<p><a href="tryit.html" class="btn btn-success">今すぐ試してみる！</a></p>
 
 <p align="right"><a href="price.html">プラン・料金の詳細 ></a></p>
 
