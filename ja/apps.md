@@ -8,16 +8,16 @@ title: Google Appsを導入しよう！
   <li class="active">Google Appsを導入しよう！</li>
 </ol>
 
-<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="257">
-<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="369">
+<h2>Google Appsを導入しよう！</h2>
+<p>Google Apps for Business は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
+メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。<br>
+世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。</p>
 
-###Google Appsを導入しよう！
-Google Apps for Business は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。  
-メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。  
-世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。
+<p><strong>関連情報：</strong>
+<li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
+</p>
 
-
-####Google Appsを体験してみる
+<h2 align="center"><a hrer="#appscontact">Google Appsを体験してみる ></a></h2>
 
 <h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
 <div class="row">
@@ -79,15 +79,18 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 </div>
 
 
-###Google Apps ご利用料金
-Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年  
-Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年
-
-####ConnectBassはGoogle Apps 販売パートナーです
-
+<h3>Google Apps ご利用料金</h3>
+<ul>
+<li>Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年</li>
+<li>Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年</li>
+</ul>
+<h2 align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps 販売パートナーです</h2>
+<a id="appscontact"></a>
+<p>Google Appsの30日間の無料トライアル、導入前のご相談などのお問い合わせはこちらから</p>
 <div id="connectBassCampaignContactForm"></div>
 <script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
 <script type="text/javascript" src="/assets/js/cbfm-emb2.js"></script>
+
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
