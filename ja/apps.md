@@ -8,11 +8,14 @@ title: Google Appsを導入しよう！
   <li class="active">Google Appsを導入しよう！</li>
 </ol>
 
+<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="257">
+<img class="img-responsive" src="/assets/img/googleapps/Google_apps_for_business_RGB_lowres.jpg" width="369">
 
 ###Google Appsを導入しよう！
 Google Apps for Business は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。  
 メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。  
 世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。
+
 
 ####Google Appsを体験してみる
 
@@ -49,7 +52,7 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
   </div>
 
   <div class="col-sm-4">
-    <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
+    <img class="img-responsive" src="/assets/img/googleapps/sites-64.png" width="64">
     <h4>サイト</h4>
     <p>スケジュールや文書、プレゼンテーション、動画などあらゆる情報を１か所にまとめスピーディに情報共有することができるイントラネットのWebサイトを簡単に作成することができます。<br>
     サイトの閲覧、編集などの権限はいつでも簡単に設定できます。</p>
@@ -67,7 +70,6 @@ Google Apps for Business は、Googleが提供する世界標準のクラウド�
     ログインすれば常に最新のサービスを利用することができ、メンテナンス不要、24時間年中無休のカスタマーサポートが受けられるので、ハード・ソフトウエア、人件費を大幅に削減することができます。</p>
   </div>
 
-<div class="row">
   <div class="col-sm-6">
     <h4>高度なセキュリティ</h4>
     <p>データセンターは複数箇所あり、専任のセキュリティスタッフが24時間常駐、99.9%の稼働率を確保しています。<br>
@@ -83,6 +85,9 @@ Google Apps for unlimited : 1ユーザーアカウント 14,400 円 / 年
 
 ####ConnectBassはGoogle Apps 販売パートナーです
 
+<div id="connectBassCampaignContactForm"></div>
+<script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
+<script type="text/javascript" src="/assets/js/cbfm-emb2.js"></script>
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
