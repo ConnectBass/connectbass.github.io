@@ -17,7 +17,7 @@ title: Google Appsを導入しよう！
 <li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
 </p>
 
-<h4>Google Appsを体験してみる</h4>
+<h2 align="center"><a hrer="#contact">Google Appsを体験してみる ></a></h2>
 
 <h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
 <div class="row">
@@ -86,7 +86,7 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 </ul>
 
 ConnectBassはGoogle Apps 販売パートナーです
-<h3>Google Appsについてのお問い合わせ</h3>
+<h3 id="contact">Google Appsについてのお問い合わせ</h3>
 <p>30日間の無料トライアル、導入前のご相談はこちらから</p>
 <div id="connectBassCampaignContactForm"></div>
 <script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
