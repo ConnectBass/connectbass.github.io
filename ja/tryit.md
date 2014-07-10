@@ -7,7 +7,7 @@ title: 今すぐ試してみる！
   <div class="col-md-9">
 	<h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-3" align="right">
 	<img src="/assets/img/redarrow.png">
   </div>
 </div>
