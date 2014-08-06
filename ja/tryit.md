@@ -16,6 +16,7 @@ title: 今すぐ試してみる！
 
 
 <strong>ご利用条件：</strong>
+
 1. 独自ドメインでの Google Apps for Business 以上のエディション
 1. ドメインの管理権限、もしくは管理者と連絡が取れること
 
