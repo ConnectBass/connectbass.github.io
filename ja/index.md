@@ -103,11 +103,8 @@ title: ConnectBass know, understand and connect the customer
 <h3>期間限定！今なら全てのプランが無料でご利用できます。</h3>
 <p align="center"><a href="tryit.html" class="btn btn-success"><strong>今すぐ試してみる！</strong></a></p>
 
-<div class="row">
-  <div class="col-sm-2">
-<p align="right" class="bg-info"><a href="price.html">プラン・料金の詳細 ></a></p>
-  </div>
-</div>
+
+<p align="right"><a href="price.html">プラン・料金の詳細 ></a></p>
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
 
