@@ -88,6 +88,8 @@ ConnectBassを利用し、相手の興味に合わせたプレミアムコンテ
 <li><a href="http://connectbass.blogspot.jp/2014/05/blog-post_5321.html?utm_source=case&utm_medium=referral&utm_campaign=cbwww" target="_">育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
 <li><a href="http://connectbass.blogspot.jp/2014/06/blog-post.html?utm_source=case&utm_medium=referral&utm_campaign=cbwww" target="_">続編～育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
 </p>
+<li><a href="http://connectbass.blogspot.jp/2014/07/3.html?utm_source=case&utm_medium=referral&utm_campaign=cbwww" target="_">第3回～育休明け、社長からのお達しは「インバウンドマーケターになれ」ってどういうこと？</a>
+</p>
 
   </div>
 </div>
