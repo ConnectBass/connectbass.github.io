@@ -7,12 +7,13 @@ title: 今すぐ試してみる！
 <div class="row">
   <div class="col-md-9">
 <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
+<p>右上の<strong color="#d9534f">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
 </div>
 <div class="col-md-3" align="right">
 <img src="/assets/img/redarrow.png" align="right">
   </div>
 </div>
-<p>右上の<strong color="#d9534f">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
+
 
 ご利用には
 
