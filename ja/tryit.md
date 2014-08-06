@@ -6,11 +6,11 @@ title: 今すぐ試してみる！
 
 <div class="row">
   <div class="col-md-9">
-<h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
-<p>右上の<strong color="#d9534f">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
-</div>
-<div class="col-md-3" align="right">
-<img src="/assets/img/redarrow.png" align="right">
+    <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
+    <p>右上の<strong style="color: #d9534f;">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
+  </div>
+  <div class="col-md-3" align="right">
+    <img src="/assets/img/redarrow.png" align="right">
   </div>
 </div>
 
@@ -22,3 +22,8 @@ title: 今すぐ試してみる！
 
 Google Apps(無償版)は対象外です。  
 Google Appsをまだ導入していない方は[こちら](apps.html)をご覧ください。
+
+もしあなたがドメインの管理者の場合、こちらの"Integrate with Google"ボタンからドメインにインストールすることも可能です。
+
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<div class="g-additnow" data-applicationid="698956359583"></div>
