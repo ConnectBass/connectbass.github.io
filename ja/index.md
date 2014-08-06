@@ -104,7 +104,7 @@ title: ConnectBass know, understand and connect the customer
 <p align="center"><a href="tryit.html" class="btn btn-success"><strong>今すぐ試してみる！</strong></a></p>
 
 
-<p align="right"><a href="price.html">プラン・料金の詳細 ></a></p>
+<p align="right" class="bg-primary"><a href="price.html">プラン・料金の詳細 ></a></p>
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>活用事例</h2>
 
