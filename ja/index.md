@@ -51,7 +51,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-user"></span> 連絡先管理</h4>
-	<p class="descQuote">Webフォームまたは、ConnectBass管理画面から、Google Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には、過去の問い合わせ履歴、アクセス履歴や、アクション履歴などの情報が一元化され保存されます。</p>
+	<p class="descQuote">Webフォームまたは、ConnectBass管理画面から、Google Appsの共有連絡先に連絡先情報を追加・編集・削除を行えるインターフェイスを提供します。この連絡先管理には、過去の問い合わせ履歴、アクセス履歴や、アクション履歴などのコンタクト情報が一元化され保存されます。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/contact.png" width="320" height="220" class="img-thumbnail imgMargin">
@@ -71,7 +71,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-search"></span> カスタマーサポート</h4>
-	<p class="descQuote">サポートチケットが発行された問い合わせの一覧から対応状況、担当者、過去の対応履歴が瞬時に確認でき、迅速に返信することができます。お客様にも問い合わせ履歴画面を提供することができる、ヘルプデスク・サポートデスクとして利用ができます</p>
+	<p class="descQuote">サポートチケットが発行された問い合わせの一覧から対応状況、担当者、過去の対応履歴が瞬時に確認でき、迅速に返信することができます。お客様にも問い合わせ履歴画面を提供することができ、ヘルプデスク・サポートデスクとして簡単に利用ができます。</p>
   </div>
   <div class="col-sm-6 text-center">
     <img src="/assets/img/top/case.png" width="320" height="220" class="img-thumbnail imgMargin">
