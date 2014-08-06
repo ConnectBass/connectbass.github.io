@@ -3,15 +3,12 @@ layout: top_ja
 title: 今すぐ試してみる！
 ---
 
-<div class="row">
-  <div class="col-md-9">
-	<h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
-  </div>
-  <p>右上の<strong  class="btn btn-danger">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
-  <div class="col-md-3" align="right">
+
+<h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
+<p>右上の<strong  class="btn btn-danger">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
+
 	<img src="/assets/img/redarrow.png">
-  </div>
-</div>
+
 ご利用には
 
 1. 独自ドメインでの Google Apps for Business 以上のエディション
