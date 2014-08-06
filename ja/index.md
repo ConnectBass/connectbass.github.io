@@ -25,7 +25,7 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h3>コンタクト（連絡先）情報を一元管理</h3>
-    <p>お問い合わせの連絡先情報はGoogle Appsへ自動的に追加され、Gmailのアドレス帳として共有されます。お問い合わせ内容などの情報はConnectBassに保存され、Google Appsの連絡先情報と連携して一元管理されます。</p>
+    <p>お問い合わせの連絡先情報はGoogle Appsへ自動的に追加され、Gmailのアドレス帳として共有されます。お問い合わせ内容などの情報はConnectBassに保存され、Google Appsの連絡先情報と連携して顧客情報を一元管理します。</p>
   </div>
   <div class="col-sm-6">
     <h3>対応状況も一目瞭然</h3>
