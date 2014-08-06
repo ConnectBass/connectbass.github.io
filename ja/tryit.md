@@ -5,9 +5,9 @@ title: 今すぐ試してみる！
 
 
 <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）を試してみるには</h2>
-<p>右上の<strong  class="btn btn-danger">【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
+<p>右上の<strong  @text-color:@brand-danger:>【Googleでログイン】</strong>ボタンを<strong>クリック</strong>して、早速試してみてください！</p>
 
-	<img src="/assets/img/redarrow.png">
+<img src="/assets/img/redarrow.png" alignt="right">
 
 ご利用には
 
