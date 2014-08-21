@@ -29,40 +29,19 @@
   <body>
 
 
-    <div>
-      <div class="container">
-        <div class="navbar-header">
-          <a href="/" class="navbar-brand"><img src="/assets/img/connect_bass_side.png"></a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-        <div  id="navbar-main">
-
-          <ul class="nav navbar-nav navbar-right">
-            <li>
+      <div class="container" style="padding-top: 10px">
+        <div class="row">
+		  <div class="col-md-8">
+			<a href="/"><img src="/assets/img/connect_bass_side.png" alt="ConnectBass"></a>
+		  </div>
+		  <div class="col-md-2 text-right" style="padding-top: 10px">
               <a href="http://connectbass.blogspot.com/?utm_source=header&utm_medium=referral&utm_campaign=cbwww">Blog</a>
-            </li>
-<!--
-            <li class="dropdown">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">Lang <span class="caret"></span></a>
-              <ul class="dropdown-menu" aria-labelledby="download">
-                <li><a tabindex="-1" href="/en/">English</a></li>
-                <li><a tabindex="-1" href="/ja/">Japanese</a></li>
-              </ul>
-            </li>
--->
-
-            <li style="padding-top: 10px">
+		  </div>
+		  <div class="col-md-2 text-right">
 			  <div ng-controller="sinCtrl">
 				<div ng-show="errorMsg">{{ errorMsg }}</div>
 				<google-plus-signin clientid="698956359583.apps.googleusercontent.com">
 			  </div>
-			</li>
-          </ul>
-
+		  </div>
         </div>
       </div>
-    </div>
