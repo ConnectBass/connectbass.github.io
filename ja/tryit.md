@@ -23,7 +23,3 @@ title: 今すぐ試してみる！
 Google Apps(無償版)は対象外です。  
 Google Appsをまだ導入していない方は[こちら](apps.html)をご覧ください。
 
-もしあなたがドメインの管理者の場合、こちらの"Integrate with Google"ボタンからドメインにインストールすることも可能です。
-
-<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
-<div class="g-additnow" data-applicationid="698956359583"></div>
