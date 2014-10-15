@@ -74,15 +74,15 @@ title: プラン・料金の詳細
 
 <table class="table table-bordered price"><thead>
 <tr>
-<th>フォームプラン</th>
+<th>コンタクトマネージャープラン</th>
 </tr>
 </thead><tbody>
 <tr>
-<td align="center"><strong><del>￥600/月（税抜）</del>今なら無料</strong></td>
+<td align="center"><strong><del>￥3,000/月（税抜）</del>今なら無料</strong></td>
 </tr>
 <tr>
 <tr>
-<td align="left"><strong>1ユーザー</strong></td>
+<td align="left"><strong>10ユーザー</strong></td>
 </tr>
 <tr>
 <td align="left"><strong>連絡先管理</strong>
@@ -196,7 +196,7 @@ title: プラン・料金の詳細
 <td align="left"><strong>モバイル対応</strong></td>
 </tr>
 <tr>
-<td align="left"><strong>優先メールサポート</strong></td>
+<td align="left"><strong>メールサポート</strong></td>
 </tr>
 </tbody></table>
 
@@ -263,7 +263,7 @@ title: プラン・料金の詳細
 <td align="left"><strong>モバイル対応</strong></td>
 </tr>
 <tr>
-<td align="left"><strong>TEL・優先メールサポート</strong></td>
+<td align="left"><strong>TEL・メールサポート</strong></td>
 </tr>
 </tbody></table>
 
@@ -279,7 +279,7 @@ title: プラン・料金の詳細
 </thead><tbody>
 <tr>
 <td align="right">ユーザー追加</td>
-<td align="right">ベーシックプラン￥1,500/月（税別）<br>プロプラン￥3,000/月（税別）</td>
+<td align="right">コンタクトマネージャープラン￥200/月（税別）<br>ベーシックプラン￥1,500/月（税別）<br>プロプラン￥3,000/月（税別）</td>
 </tr>
 <tr>
 <td align="right">フォーム追加</td>
