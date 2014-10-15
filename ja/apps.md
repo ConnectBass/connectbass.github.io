@@ -8,7 +8,7 @@ title: Google Apps for Workを導入しよう！
   <li class="active">Google Apps for Workを導入しよう！</li>
 </ol>
 
-<h2>Google Apps for Workを導入しよう！</h2>
+<h2>Google Apps for Work を導入しよう！</h2>
 <p>Google Apps for Work は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
 メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。<br>
 世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。</p>
@@ -24,7 +24,7 @@ title: Google Apps for Workを導入しよう！
   <div class="col-sm-4">
     <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
     <h4>Gmail</h3>
-    <p>独自のドメインが利用できます。1人30G(Google Apps with unlimited storage and Vault なら、保存容量無制限)の大容量で高精度の迷惑メールフィルタが標準装備。<br>
+    <p>独自のドメインが利用できます。1人30GB(Google Apps with unlimited storage and Vault なら、保存容量無制限)の大容量で高精度の迷惑メールフィルタが標準装備。<br>
     Googleの高速検索エンジンで、すべてのメール、ドキュメントから検索できるので、探しているものが瞬時に見つかります。</p>
   </div>
 
@@ -61,7 +61,7 @@ title: Google Apps for Workを導入しよう！
 
 
 
-<h3>Google Apps が選ばれる理由</h3>
+<h3>Google Apps for Work が選ばれる理由</h3>
 
 <div class="row">
   <div class="col-sm-6">
@@ -93,5 +93,5 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
-  <li class="active">Google Appsを導入しよう！</li>
+  <li class="active">Google Apps for Workを導入しよう！</li>
 </ol>
