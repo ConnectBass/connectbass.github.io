@@ -1,15 +1,15 @@
 ---
 layout: top_ja
-title: Google Appsを導入しよう！
+title: Google Apps for Workを導入しよう！
 ---
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
-  <li class="active">Google Appsを導入しよう！</li>
+  <li class="active">Google Apps for Workを導入しよう！</li>
 </ol>
 
-<h2>Google Appsを導入しよう！</h2>
-<p>Google Apps for Business は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
+<h2>Google Apps for Workを導入しよう！</h2>
+<p>Google Apps for Work は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
 メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。<br>
 世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。</p>
 
@@ -24,7 +24,7 @@ title: Google Appsを導入しよう！
   <div class="col-sm-4">
     <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
     <h4>Gmail</h3>
-    <p>独自のドメインが利用できます。1人30Gの大容量で高精度の迷惑メールフィルタが標準装備。<br>
+    <p>独自のドメインが利用できます。1人30G(Google Apps with unlimited storage and Vault なら、保存容量無制限)の大容量で高精度の迷惑メールフィルタが標準装備。<br>
     Googleの高速検索エンジンで、すべてのメール、ドキュメントから検索できるので、探しているものが瞬時に見つかります。</p>
   </div>
 
@@ -81,10 +81,10 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 
 <h3>Google Apps ご利用料金</h3>
 <ul>
-<li>Google Apps for Business : 1ユーザーアカウント 6,000 円 / 年</li>
-<li>Google Apps for Unlimited : 1ユーザーアカウント 14,400 円 / 年</li>
+<li>Google Apps : 1ユーザーアカウント 6,000 円 / 年</li>
+<li>Google Apps with unlimited storage and Vault : 1ユーザーアカウント 14,400 円 / 年</li>
 </ul>
-<h2 id="appscontact" align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps 販売パートナーです</h2>
+<h2 id="appscontact" align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps for Work 販売パートナーです</h2>
 <p>Google Appsの30日間の無料トライアル、導入前のご相談などのお問い合わせはこちらから</p>
 <div id="connectBassCampaignContactForm"></div>
 <script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
