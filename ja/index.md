@@ -5,7 +5,7 @@ title: ConnectBass know, understand and connect the customer
 
 <div class="jumbotron">
   <h2><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>（コネクトバス）は、</h2>
-  <p class="lead">お客様からの問い合わせ、連絡先情報をGoogle Apps と連携して一元管理できるコンタクトマネジメントツールです。</p>
+  <p class="lead">お客様からの問い合わせ、連絡先情報をGoogle Apps for Work と連携して一元管理できるコンタクトマネジメントツールです。</p>
 
   <div class="row">
     <div class="col-sm-6">
@@ -39,9 +39,9 @@ title: ConnectBass know, understand and connect the customer
 	<p>スマートフォン、タブレットからのアクセスにも最適化されており、外出時にも問い合わせ対応が迅速に行えます。</p>
   </div>
   <div class="col-sm-6">
-    <h3>Google Appsとの連携</h3>
+    <h3>Google Apps for Workとの連携</h3>
 	<p>ConnectBassの利用にはGoogle Appsが必要です。<br>Gmail、カレンダー、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、利用することができます。</p>
-	<p align="right"><a href="apps.html">Google Appsの詳細 ></a></p>  
+	<p align="right"><a href="apps.html">Google Apps for Workの詳細 ></a></p>  
   </div>
 </div>
 
