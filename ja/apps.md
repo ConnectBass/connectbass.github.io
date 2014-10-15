@@ -17,14 +17,14 @@ title: Google Apps for Workを導入しよう！
 <li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
 </p>
 
-<h2 align="center"><a href="#appscontact">Google Appsを体験してみる ></a></h2>
+<h2 align="center"><a href="#appscontact">Google Apps for Workを体験してみる ></a></h2>
 
 <h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
 <div class="row">
   <div class="col-sm-4">
     <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
     <h4>Gmail</h3>
-    <p>独自のドメインが利用できます。1人30GB(Google Apps with unlimited storage and Vault なら、保存容量無制限)の大容量で高精度の迷惑メールフィルタが標準装備。<br>
+    <p>独自のドメインが利用できます。1人30GBの容量（Google Apps with unlimited storage and Vault なら、容量無制限）、高精度の迷惑メールフィルタが標準装備。<br>
     Googleの高速検索エンジンで、すべてのメール、ドキュメントから検索できるので、探しているものが瞬時に見つかります。</p>
   </div>
 
@@ -79,7 +79,7 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 </div>
 
 
-<h3>Google Apps ご利用料金</h3>
+<h3>Google Apps for Workご利用料金</h3>
 <ul>
 <li>Google Apps : 1ユーザーアカウント 6,000 円 / 年</li>
 <li>Google Apps with unlimited storage and Vault : 1ユーザーアカウント 14,400 円 / 年</li>
