@@ -130,3 +130,11 @@ title: ConnectBass know, understand and connect the customer
 <p align="right"><a href="case.html">活用例の詳細 ></a></p>
 
 <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6014055334608&amp;cd[value]=0.00&amp;cd[currency]=JPY&amp;noscript=1" />
+
+<script>
+var connectbasscomWidgetFormConfig = {
+    apiKey:'hzC.5ff5bf2eee0e490b', secret:'669abecb.570b24031b984509',
+    oxc: 'hzC/hAe', formType:'basic'
+};
+</script>
+<script src="https://www.connectbass.com/forms/assets/js/cbfmloader-1.0.0-min.js"></script>
