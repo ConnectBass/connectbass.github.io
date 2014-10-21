@@ -8,8 +8,8 @@ title: ConnectBassコンタクトマネージャー
   <li class="active">ConnectBassコンタクトマネージャー</li>
 </ol>
 
-<h2>Google Appsで顧客情報を一元管理するためのConnectBassコンタクトマネージャー</h2>
-<p>Google Apps for Work は、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
+<h2>顧客情報の一元管理にGoogle Appsを利用するConnectBassコンタクトマネージャー</h2>
+<p>ConnectBassコンタクトマネージャーは、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
 メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。<br>
 世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。</p>
 
@@ -17,9 +17,9 @@ title: ConnectBassコンタクトマネージャー
 <li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
 </p>
 
-<h2 align="center"><a href="#appscontact">Google Apps for Workを体験してみる ></a></h2>
+<h2 align="center">複数のファイル、システムに点在しているお客様の連絡先情報</h2>
 
-<h3>業務の効率化を実現する、Google Appsのアプリケーション</h3>
+<h3>バラバラに情報更新が行われ、システムによって情報が違っていませんか?</h3>
 <div class="row">
   <div class="col-sm-4">
     <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
@@ -61,7 +61,7 @@ title: ConnectBassコンタクトマネージャー
 
 
 
-<h3>Google Apps for Work が選ばれる理由</h3>
+<h3>このカオスな状態から抜け出すには、情報の一元化です</h3>
 
 <div class="row">
   <div class="col-sm-6">
@@ -95,4 +95,3 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
   <li><a href="/">Home</a></li>
   <li class="active">Google Apps for Workを導入しよう！</li>
 </ol>
-
