@@ -134,7 +134,8 @@ title: ConnectBass know, understand and connect the customer
 <script>
 var connectbasscomWidgetFormConfig = {
     apiKey:'hzC.5ff5bf2eee0e490b', secret:'669abecb.570b24031b984509',
-    oxc: 'hzC/hAe', formType:'basic'
+    visible: 'form',
+    oxc: 'hzC/hAy', formType:'widget'
 };
 </script>
 <script src="https://www.connectbass.com/forms/assets/js/cbfmloader-1.0.0-min.js"></script>
