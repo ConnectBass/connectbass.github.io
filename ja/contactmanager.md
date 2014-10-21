@@ -78,20 +78,75 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
   </div>
 </div>
 
+<table class="table table-bordered price"><thead>
+<tr>
+<th>コンタクトマネージャープラン</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="center"><strong><del>￥3,000/月（税抜）</del>今なら無料</strong></td>
+</tr>
+<tr>
+<tr>
+<td align="left"><strong>10ユーザー</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>連絡先管理</strong>
 
-<h3>Google Apps for Workご利用料金</h3>
 <ul>
-<li>Google Apps : 1ユーザーアカウント 6,000 円 / 年</li>
-<li>Google Apps with unlimited storage and Vault : 1ユーザーアカウント 14,400 円 / 年</li>
+<li>50,000件までの連絡先登録</li>
+<li>連絡先の追加・編集・削除</li>
+<li>GoogleDriveからのインポート</li>
 </ul>
-<h2 id="appscontact" align="center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>はGoogle Apps for Work 販売パートナーです</h2>
-<p>Google Appsの30日間の無料トライアル、導入前のご相談などのお問い合わせはこちらから</p>
-<div id="connectBassCampaignContactForm"></div>
-<script type="text/javascript" src="//www.connectbass.com/forms/assets/js/cbfm-1.0.0-min.js"></script>
-<script type="text/javascript" src="/assets/js/cbfm-emb2.js"></script>
+
+</td>
+</tr>
+<tr>
+<td align="left"><strong>Webフォーム</strong>
+
+<ul>
+<li>1つのWebフォーム</li>
+<li>SSL暗号通信</li>
+<li>ダウンロードリンク</li>
+<li>自動返信メール</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td align="left"><strong>カスタマーサポート</strong>
+
+<ul>
+<li>表示のみ</li>
+</ul>
+
+</td>
+</tr>
+<!--
+<tr>
+<td align="left"></td>
+</tr>
+-->
+<tr>
+<td align="left"><strong>モバイル対応</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>メールサポート</strong></td>
+</tr>
+</tbody></table>
+
+<h3>ConnectBassご利用料金</h3>
+<ul>
+<li>10ユーザーまで 6,000 円 / 月</li>
+<li>以降 1ユーザー 200 円 / 月</li>
+</ul>
+<h2 id="appscontact" align="center">今すぐ試してみる</h2>
+<p>ConnectBassコンタクトマネージャーへ登録後、Google Appsの設定を変えるだけ</p>
+
 
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
-  <li class="active">Google Apps for Workを導入しよう！</li>
+  <li class="active">ConnectBassコンタクトマネージャー</li>
 </ol>
+
