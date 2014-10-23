@@ -8,10 +8,8 @@ title: ConnectBassコンタクトマネージャー
   <li class="active">ConnectBassコンタクトマネージャー</li>
 </ol>
 
-<h2>顧客情報の一元管理にGoogle Appsを利用するConnectBassコンタクトマネージャー</h2>
-<p>ConnectBassコンタクトマネージャーは、Googleが提供する世界標準のクラウド型ビジネスグループウエアです。<br>
-メール、スケジュール管理、文書共有などの日々のビジネスに必要なアプリケーションをいつでもどこからでも、安全に利用することができ、業務の効率化、コミュニケーション向上を実現します。<br>
-世界で500万以上の企業が導入しており、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。</p>
+<h2>Google Appsでの顧客管理を実現するConnectBassコンタクトマネージャー</h2>
+<p>ConnectBassコンタクトマネージャーは、顧客情報を一元管理し、Gmail、カレンダー、ハングアウトといったGoogle Appsの各種サービスから<br></p>
 
 <p><strong>関連情報：</strong>
 <li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
@@ -137,7 +135,7 @@ SSAE 16 Type II、ISAE 3402 Type II、FISMAといった世界高レベルの認�
 
 <h3>ConnectBassご利用料金</h3>
 <ul>
-<li>10ユーザーまで 6,000 円 / 月</li>
+<li>10ユーザーまで 3,000 円 / 月</li>
 <li>以降 1ユーザー 200 円 / 月</li>
 </ul>
 <h2 id="appscontact" align="center">今すぐ試してみる</h2>
