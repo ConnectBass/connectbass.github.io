@@ -8,16 +8,20 @@ title: ConnectBassコンタクトマネージャー
   <li class="active">ConnectBassコンタクトマネージャー</li>
 </ol>
 
-<h2>Google Appsでの顧客管理を実現するConnectBassコンタクトマネージャー</h2>
-<p>ConnectBassコンタクトマネージャーは、顧客情報を一元管理し、Gmail、カレンダー、ハングアウトといったGoogle Appsの各種サービスから<br></p>
+<h2>Google Appsで顧客管理を実現するConnectBassコンタクトマネージャー</h2>
+<p>ConnectBassコンタクトマネージャーはクラウド上で顧客情報を一元管理し、世界で最も使われているクラウド型グループウェアGoogle AppsのGmail、カレンダー、ハングアウトといった各種サービスで顧客の連絡先を共有することができます。<br></p>
 
-<p><strong>関連情報：</strong>
-<li><a href="http://connectbass.blogspot.jp/search/label/%23apps?utm_source=apps&utm_medium=referral&utm_campaign=cbwww" target="_">ConnectBass BlogでのGoogle Apps関連情報</a>
-</p>
 
-<h2 align="center">複数のファイル、システムに点在しているお客様の連絡先情報</h2>
+<h2 align="center">複数のファイル、システムに点在しているお客様の連絡先情報どれが最新ですか?</h2>
 
 <h3>バラバラに情報更新が行われ、システムによって情報が違っていませんか?</h3>
+
+<h3>このカオスな状態から抜け出すには、情報の一元化が必須です</h3>
+
+<h2 align="center">ConnectBassコンタクトマネージャーなら最も利用するコミュニケーション手段に情報一元管理ができる</h2>
+
+<h3>このカオスな状態から抜け出すには、情報の一元化が必須です</h3>
+
 <div class="row">
   <div class="col-sm-4">
     <img class="img-responsive" src="/assets/img/googleapps/googlemail-64.png" width="64">
@@ -35,13 +39,6 @@ title: ConnectBassコンタクトマネージャー
   </div>
 
   <div class="col-sm-4">
-    <img class="img-responsive" src="/assets/img/googleapps/drive-64.png" width="64">
-    <h4>ドライブ</h4>
-    <p>あらゆる形式のファイルを保管、共有することができます。権限の付与により、いつでもどこからでも複数人で共同編集できるので、メールに添付してやり取りをする必要がありません。<br>
-    アンケートや営業日報などのフォームを作成することもでき、入力内容が自動的にグラフ化されるので、分析も簡単にできます。</p>
-  </div>
-
-  <div class="col-sm-4">
     <img class="img-responsive" src="/assets/img/googleapps/icn-hangouts-64.png" width="64">
     <h4>ハングアウト</h4>
     <p>最大15名でビデオ会議ができます。<br>
@@ -49,17 +46,11 @@ title: ConnectBassコンタクトマネージャー
     移動にかかる費用や時間を大幅に削減することができます。</p>
   </div>
 
-  <div class="col-sm-4">
-    <img class="img-responsive" src="/assets/img/googleapps/sites-64.png" width="64">
-    <h4>サイト</h4>
-    <p>スケジュールや文書、プレゼンテーション、動画などあらゆる情報を１か所にまとめスピーディに情報共有することができるイントラネットのWebサイトを簡単に作成することができます。<br>
-    サイトの閲覧、編集などの権限はいつでも簡単に設定できます。</p>
-  </div>
 </div>
 
 
 
-<h3>このカオスな状態から抜け出すには、情報の一元化です</h3>
+
 
 <div class="row">
   <div class="col-sm-6">
