@@ -47,7 +47,7 @@ title: About us
     <tr>
 	  <td>パートナー</td>
 	  <td>
-		<img src="/assets/img/Apps_ASMBR_web.gif" alt="Google Apps 販売パートナー">
+		<img src="/assets/img/googleapps/GoogleWork_Partner_v3.png" alt="Google Apps 販売パートナー">
 		<img src="/assets/img/apn_logo.png" alt="AWS テクノロジーパートナー">
 	    <ul>
 		  <li>Google Apps 販売パートナー</li>
