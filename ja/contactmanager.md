@@ -8,7 +8,7 @@ title: ConnectBassコンタクトマネージャー
   <li class="active">ConnectBassコンタクトマネージャー</li>
 </ol>
 
-<h2>Google Appsで顧客管理を実現するConnectBassコンタクトマネージャー</h2>
+<h2>Google Appsで顧客管理を実現する<span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>コンタクトマネージャー</h2>
 <p>ConnectBassコンタクトマネージャーはクラウド上で顧客情報を一元管理するサービスです。<br>
 世界で最も使われているクラウド型グループウェアGoogle AppsのGmail、カレンダー、ハングアウトといった各種サービスで顧客の連絡先を共有することができます。<br></p>
 
