@@ -91,10 +91,10 @@ title: ConnectBass know, understand and connect the customer
 <div class="row">
   <div class="col-sm-6">
     <h4><span class="glyphicon glyphicon-globe"></span> アクセス履歴</h4>
-	<p class="descQuote">お客様がどのページを見てから問い合わせてきたのか、過去どのようなアクションを取ったのかを把握することができます。また、Google Analytics との連携もできます。</p>
+	<p class="descQuote">ユーザーが問い合わせページにアクセスしたタイミング、問い合わせたタイミング、ユーザーへ回答したタイミングなどのユーザーに関するアクション履歴が時系列に表示されます。また、Google Analytics との連携もできます。</p>
   </div>
   <div class="col-sm-6 text-center">
-    <img src="/assets/img/top/access.png" width="320" height="220" class="img-thumbnail imgMargin">
+    <img src="/assets/img/top/access_v2.png" width="320" height="220" class="img-thumbnail imgMargin">
   </div>
 </div>
 
