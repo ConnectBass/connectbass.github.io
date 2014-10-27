@@ -16,7 +16,7 @@ title: ConnectBassコンタクトマネージャー
 <h2 align="center">点在しているお客様の連絡先情報、どれが最新ですか?</h2>
 
 <p>お客様の情報はどこにありますか？<br>
-
+<img src="/assets/img/contact/contact_before.png" alt="点在する顧客情報">
 
 <h3>バラバラに情報更新が行われ、システムによって情報が違っていませんか?</h3>
 
