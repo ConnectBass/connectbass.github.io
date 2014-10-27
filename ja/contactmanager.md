@@ -15,7 +15,7 @@ title: ConnectBassコンタクトマネージャー
 
 <h2 align="center">点在しているお客様の情報、どれが最新ですか?</h2>
 
-<img src="/assets/img/contact/contact_before.png" alt="点在する顧客情報" align="center">
+<img src="/assets/img/contact/contact_before.png" alt="点在する顧客情報">
 
 <h3>バラバラに情報更新が行われ、システムによって情報が違っていませんか?</h3>
 
@@ -33,6 +33,7 @@ Aさん、Cさんのアドレス帳には最新の電話番号とメールアド
 
 
 <h2 align="center">ConnectBassなら最も利用するコミュニケーション手段で情報一元管理ができる</h2>
+<img src="/assets/img/contact/contact_after.png" alt="ConnectBassで顧客情報を一元管理">
 
 <p>ConnectBassコンタクトマネージャーなら、いつでもどこからでも利用できるGoogle Apps for Workで連絡先情報を参照できます。</p>
 
