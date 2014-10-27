@@ -147,7 +147,7 @@ Aさん、Cさんのアドレス帳には最新の電話番号とメールアド
 </ul>
 
 <h2 id="appscontact" align="center">今すぐ試してみる</h2>
-<p>下のボタンをクリックしてConnectBassコンタクトマネージャーへ登録後、Google Appsの設定を変えるだけですぐ利用できます。</p>
+<p>下のボタンをクリックしてConnectBassコンタクトマネージャーへ登録後、Google Appsの設定を変えるだけですぐに利用できます。</p>
 
 <p align="center"><a href="tryit.html" class="btn btn-success"><strong>今すぐ試してみる！</strong></a></p>
 
