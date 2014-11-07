@@ -12,13 +12,13 @@ title: ConnectBass know, understand and connect the customer
       <img class="media-object" src="/assets/img/top/devices_320.png" width="320">
     </div>
     <div class="col-sm-6 text-right">
-      <p>期間限定、有料プランも無料で利用できます。</p>
+      <p>期間限定、無料で利用できます。</p>
 	  <p><a href="tryit.html" class="btn btn-success">今すぐ試してみる！</a></p>
+      <p><a href="contactmanager.html">コンタクトマネージャプラン</a>登場！</p>
     </div>
   </div>
 
 </div>
-
 
 <h2 class="text-center"><span class="logoTypoPrefix">Connect</span><span class="logoTypoSuffix">Bass</span>の特徴</h2>
 
@@ -26,6 +26,8 @@ title: ConnectBass know, understand and connect the customer
   <div class="col-sm-6">
     <h3>コンタクト（連絡先）情報を一元管理</h3>
     <p>お問い合わせの連絡先情報はGoogle Appsへ自動的に追加され、Gmailのアドレス帳として共有されます。お問い合わせ内容などの情報はConnectBassに保存され、Google Appsの連絡先情報と連携して顧客情報を一元管理します。</p>
+
+	<p align="right"><a href="contactmanager.html">最も利用するコミュニケーション手段で一元管理する ></a></p>
   </div>
   <div class="col-sm-6">
     <h3>対応状況も一目瞭然</h3>
@@ -131,6 +133,7 @@ title: ConnectBass know, understand and connect the customer
 
 <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6014055334608&amp;cd[value]=0.00&amp;cd[currency]=JPY&amp;noscript=1" />
 
+<!--
 <script>
 var connectbasscomWidgetFormConfig = {
     apiKey:'hzC.5ff5bf2eee0e490b', secret:'669abecb.570b24031b984509',
@@ -139,3 +142,8 @@ var connectbasscomWidgetFormConfig = {
 };
 </script>
 <script src="https://www.connectbass.com/forms/assets/js/cbfmloader-1.0.0-min.js"></script>
+-->
+
+<script>var connectbasscomWidgetFormConfig = {  apiKey:'hzC.5ff5bf2eee0e490b', secret:'669abecb.570b24031b984509',  visible: 'form',   oxc: 'j/r', formType:'widget'};</script>
+<script src="http://localhost/embed/cbfmloader-1.0.js"></script>
+-
